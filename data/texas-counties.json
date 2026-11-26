@@ -841,6 +841,117 @@
       "reviewStatus": "Official listing page identified",
       "reviewedOn": "2026-11-25",
       "access": "See official portal for access terms"
+    },
+    {
+      "label": "County clerk forms and marriage guidance",
+      "url": "https://www.lamarcountytx.gov/page/FormsCC",
+      "recordTypes": [
+        "Assumed Business Names",
+        "Vital Records",
+        "Military Records"
+      ],
+      "destinationTier": 3,
+      "status": "County clerk forms and request instructions; DD-214 access is restricted; marriage license instructions are not a marriage index.",
+      "source": "https://www.lamarcountytx.gov/page/FormsCC",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Paris permits, inspections and municipal records portal",
+      "url": "https://public.mygov.us/paris_texas",
+      "recordTypes": [
+        "Building Permits",
+        "Business Permits",
+        "Property Maps",
+        "Business Inspections"
+      ],
+      "destinationTier": 2,
+      "status": "City of Paris only; includes permit services, reports and GIS. Some services require an account; existing record access varies.",
+      "source": "https://public.mygov.us/paris_texas",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Paris planning and zoning",
+      "url": "https://www.paristexas.gov/548/Planning-Zoning",
+      "recordTypes": [
+        "Zoning Records"
+      ],
+      "destinationTier": 2,
+      "status": "City of Paris zoning maps and planning documents; not countywide.",
+      "source": "https://www.paristexas.gov/548/Planning-Zoning",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Paris public information requests",
+      "url": "https://www.paristexas.gov/206/Texas-Public-Information-Act",
+      "recordTypes": [
+        "Public Information Requests"
+      ],
+      "destinationTier": 3,
+      "status": "City of Paris only; online request form linked; exemptions and fees may apply.",
+      "source": "https://www.paristexas.gov/206/Texas-Public-Information-Act",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Paris police records requests",
+      "url": "https://www.paristexas.gov/593/Records-Division",
+      "recordTypes": [
+        "Public Information Requests",
+        "Arrest Records",
+        "Accident Records"
+      ],
+      "destinationTier": 3,
+      "status": "City police reports by written request, subject to eligibility and exemptions; not a booking search.",
+      "source": "https://www.paristexas.gov/593/Records-Division",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Paris municipal court citation services",
+      "url": "https://www.paristexas.gov/100/Fines-Payment-Methods",
+      "recordTypes": [
+        "Traffic Records"
+      ],
+      "destinationTier": 3,
+      "status": "City citations only; payment and court contact guidance, not a general public case index.",
+      "source": "https://www.paristexas.gov/100/Fines-Payment-Methods",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Lamar County sheriff office",
+      "url": "https://www.lamarcountytx.gov/page/sheriff",
+      "recordTypes": [
+        "Warrant Records"
+      ],
+      "destinationTier": 4,
+      "status": "Contact the responsible agency; no dedicated public warrant lookup confirmed.",
+      "source": "https://www.lamarcountytx.gov/page/sheriff",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Lamar County audit reports",
+      "url": "https://www.lamarcountytx.gov/page/Audit",
+      "recordTypes": [
+        "Government Audits"
+      ],
+      "destinationTier": 2,
+      "status": "Published county audit reports.",
+      "source": "https://www.lamarcountytx.gov/page/Audit",
+      "reviewStatus": "Official source reviewed; service functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
     }
   ],
   "Anderson": [
