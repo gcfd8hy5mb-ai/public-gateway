@@ -662,10 +662,12 @@
     {
       "url": "https://lamarcad.org/",
       "label": "Appraisal district",
-      "status": "pending",
-      "reviewStatus": "not independently reviewed",
+      "status": "Official appraisal district homepage; use dedicated services for direct access.",
+      "reviewStatus": "Official source reviewed",
       "destinationTier": 4,
-      "jurisdiction": "Lamar County"
+      "jurisdiction": "Lamar County",
+      "reviewedOn": "2026-11-25",
+      "source": "https://lamarcad.org/"
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
@@ -852,7 +854,7 @@
       "destinationTier": 2,
       "source": "https://lamarcad.org/",
       "status": "Browse posted tax sale information; verify sale terms.",
-      "reviewStatus": "Official listing page identified",
+      "reviewStatus": "Official listing page reviewed; sale status not independently verified",
       "reviewedOn": "2026-11-25",
       "access": "See official portal for access terms",
       "jurisdiction": "Lamar County"
@@ -1043,13 +1045,14 @@
       "label": "County election documents and results",
       "url": "https://www.lamarcountytx.gov/page/Elections",
       "recordTypes": [
-        "Election Records"
+        "Election Records",
+        "Campaign Finance"
       ],
       "destinationTier": 2,
-      "status": "Official election notices, results and documents.",
+      "status": "Election notices and results, plus campaign finance filing resources; not necessarily a searchable campaign finance index.",
       "source": "https://www.lamarcountytx.gov/page/Elections",
       "jurisdiction": "Lamar County",
-      "reviewStatus": "Official source identified; live search not tested",
+      "reviewStatus": "Official source reviewed; individual documents not tested",
       "reviewedOn": "2026-11-25",
       "access": "See agency for current terms"
     },
@@ -1128,6 +1131,79 @@
       "reviewStatus": "Official page reviewed; individual records not tested",
       "reviewedOn": "2026-11-25",
       "access": "See agency for terms"
+    },
+    {
+      "label": "County financial transparency",
+      "url": "https://www.lamarcountytx.gov/page/Overview",
+      "recordTypes": [
+        "Government Spending",
+        "Government Databases"
+      ],
+      "destinationTier": 2,
+      "status": "Published budget and financial transparency information.",
+      "source": "https://www.lamarcountytx.gov/page/Overview",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source reviewed; transactions and interactive functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See official source for terms"
+    },
+    {
+      "label": "County proposed budgets",
+      "url": "https://www.lamarcountytx.gov/page/Proposed.Budgets",
+      "recordTypes": [
+        "Government Spending"
+      ],
+      "destinationTier": 2,
+      "status": "Published proposed budgets; not necessarily adopted budgets.",
+      "source": "https://www.lamarcountytx.gov/page/Proposed.Budgets",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source reviewed; transactions and interactive functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See official source for terms"
+    },
+    {
+      "label": "Justice of the Peace precinct services",
+      "url": "https://www.lamarcountytx.gov/page/Justice",
+      "recordTypes": [
+        "Court Records",
+        "Traffic Records"
+      ],
+      "destinationTier": 4,
+      "status": "Precinct contacts, selected appointments and fees reports, forms and payments; not a case index.",
+      "source": "https://www.lamarcountytx.gov/page/Justice",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source reviewed; transactions and interactive functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See official source for terms"
+    },
+    {
+      "label": "Appraisal district open-record request forms",
+      "url": "https://lamarcad.org/lamar-cad-forms-applications/",
+      "recordTypes": [
+        "Public Information Requests",
+        "Property Tax Forms"
+      ],
+      "destinationTier": 3,
+      "status": "Includes open-record request form; exemptions may apply.",
+      "source": "https://lamarcad.org/lamar-cad-forms-applications/",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source reviewed; transactions and interactive functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See official source for terms"
+    },
+    {
+      "label": "Truth in taxation resources",
+      "url": "https://lamarcad.org/truth-in-taxation/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "status": "Official guidance linking to local proposed tax rate database; linked database not independently tested.",
+      "source": "https://lamarcad.org/truth-in-taxation/",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source reviewed; transactions and interactive functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See official source for terms"
     }
   ],
   "Anderson": [
