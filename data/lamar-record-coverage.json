@@ -3,7 +3,7 @@
   "state": "Texas",
   "complete": false,
   "asOf": "2026-11-25",
-  "note": "Mappings are inventory evidence, not proof of access or completeness. Missing categories are not evidence of unavailability.",
+  "note": "Mappings are inventory evidence, not proof of access or completeness. Missing categories are not evidence of unavailability. Responsibility classifications are planning guidance, not findings that a local record does not exist.",
   "municipalResearch": {
     "Paris": "Partial; archives and clerk pages reviewed",
     "Blossom": "Pending",
@@ -38,7 +38,8 @@
           "jurisdiction": "Regional directory",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Criminal Records",
@@ -51,7 +52,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Arrest Records",
@@ -71,7 +73,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Inmate Records",
@@ -84,7 +87,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Warrant Records",
@@ -97,7 +101,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Civil Court Records",
@@ -117,12 +122,14 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Bankruptcy Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Probate Records",
@@ -135,12 +142,15 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Family Court Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Local research required",
+      "authorityReference": "https://www.txcourts.gov/about-texas-courts/trial-courts/"
     },
     {
       "type": "Vital Records",
@@ -181,7 +191,8 @@
           "jurisdiction": "Texas statewide",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Traffic Records",
@@ -201,17 +212,22 @@
           "jurisdiction": "Regional directory",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Sex Offender Registries",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible",
+      "authorityReference": "https://www.dps.texas.gov/section/crime-records/texas-sex-offender-registration-program"
     },
     {
       "type": "Missing Persons",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible",
+      "authorityReference": "https://www.dps.texas.gov/apps/mpch"
     },
     {
       "type": "Court Calendars",
@@ -224,7 +240,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Jail Bond Records",
@@ -237,7 +254,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Birth Records",
@@ -257,7 +275,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Death Records",
@@ -277,7 +296,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Marriage Records",
@@ -297,7 +317,8 @@
           "jurisdiction": "Texas statewide",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Divorce Records",
@@ -310,7 +331,8 @@
           "jurisdiction": "Texas statewide",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Property Records",
@@ -323,7 +345,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Property Ownership",
@@ -336,7 +359,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Land and Deed Records",
@@ -363,7 +387,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Property Tax Records",
@@ -383,7 +408,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Foreclosure Records",
@@ -396,7 +422,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Tax Liens",
@@ -409,7 +436,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Mortgage Records",
@@ -429,7 +457,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Building Permits",
@@ -442,7 +471,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Zoning Records",
@@ -455,17 +485,22 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "UCC Filings",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible",
+      "authorityReference": "https://www.sos.state.tx.us/ucc/faqs.shtml"
     },
     {
       "type": "Unclaimed Property",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible",
+      "authorityReference": "https://comptroller.texas.gov/programs/unclaimed/"
     },
     {
       "type": "Public Auctions",
@@ -478,7 +513,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Property Appraisals",
@@ -491,7 +527,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Property Maps",
@@ -511,7 +548,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Appraisal Protests",
@@ -524,7 +562,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Property Tax Forms",
@@ -537,7 +576,8 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Appraisal Agent Services",
@@ -550,17 +590,21 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Business Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Business Registrations",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible",
+      "authorityReference": "https://www.sos.state.tx.us/corp/searches.shtml"
     },
     {
       "type": "Assumed Business Names",
@@ -587,12 +631,14 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Professional Licenses",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Business Permits",
@@ -605,37 +651,45 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Corporate Filings",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible",
+      "authorityReference": "https://www.sos.state.tx.us/corp/searches.shtml"
     },
     {
       "type": "Trademarks",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Patents",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Government Contracts",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Nonprofit Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Regulatory Violations",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Business Inspections",
@@ -648,12 +702,14 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Government Databases",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Election Records",
@@ -666,32 +722,38 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Campaign Finance",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Lobbyist Registrations",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible"
     },
     {
       "type": "Government Spending",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Public Salaries",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Government Grants",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Public Meeting Records",
@@ -718,7 +780,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Legislative Records",
@@ -731,7 +794,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Government Audits",
@@ -744,12 +808,14 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Ethics Disclosures",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Public Information Requests",
@@ -776,22 +842,26 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Aircraft Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Maritime Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Transportation Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Accident Records",
@@ -804,42 +874,50 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Environmental Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Oil and Gas Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible"
     },
     {
       "type": "Water Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Mining Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily statewide; local exceptions possible"
     },
     {
       "type": "Safety Violations",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Product Recalls",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Research Tools",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Military Records",
@@ -852,42 +930,50 @@
           "jurisdiction": "Lamar County",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     },
     {
       "type": "Genealogy Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Historical Census Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Cemetery Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Local research required"
     },
     {
       "type": "Immigration Archives",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Primarily federal; local exceptions possible"
     },
     {
       "type": "Historical Newspapers",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Educational Records",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Historical Maps",
-      "status": "Research pending",
-      "destinations": []
+      "status": "Jurisdiction classified; destination research pending",
+      "destinations": [],
+      "responsibility": "Multiple jurisdictions; scope review required"
     },
     {
       "type": "Government Archives",
@@ -900,7 +986,8 @@
           "jurisdiction": "City of Paris",
           "verification": "Endpoint and capability audit pending"
         }
-      ]
+      ],
+      "responsibility": "Mapped; scope varies by destination"
     }
   ]
 }
