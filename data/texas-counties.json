@@ -1082,6 +1082,52 @@
       "reviewStatus": "Official source identified; live search not tested",
       "reviewedOn": "2026-11-25",
       "access": "See agency for current terms"
+    },
+    {
+      "label": "Paris searchable municipal archives",
+      "url": "https://www.paristexas.gov/Archive.aspx",
+      "recordTypes": [
+        "Public Meeting Records",
+        "Government Archives"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "City of Paris",
+      "status": "Search published archive documents; coverage varies by archive.",
+      "source": "https://www.paristexas.gov/Archive.aspx",
+      "reviewStatus": "Official page reviewed; individual records not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Paris city clerk records and ordinances",
+      "url": "https://www.paristexas.gov/205/City-Clerk",
+      "recordTypes": [
+        "Legislative Records",
+        "Public Meeting Records",
+        "Public Information Requests"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "City of Paris",
+      "status": "City clerk is custodian of minutes, ordinances, resolutions and contracts.",
+      "source": "https://www.paristexas.gov/205/City-Clerk",
+      "reviewStatus": "Official page reviewed; individual records not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Lamar area municipal court directory",
+      "url": "https://card.txcourts.gov/ajrdata.aspx?ajr=10&ct=57&st=",
+      "recordTypes": [
+        "Court Records",
+        "Traffic Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Regional directory",
+      "status": "State court directory includes municipal courts; not a case search.",
+      "source": "https://card.txcourts.gov/ajrdata.aspx?ajr=10&ct=57&st=",
+      "reviewStatus": "Official page reviewed; individual records not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
     }
   ],
   "Anderson": [
