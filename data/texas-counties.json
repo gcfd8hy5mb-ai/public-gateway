@@ -3094,6 +3094,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Cameron CAD — Property search",
+      "url": "https://www.cameroncad.org/Pages/PropertySearch",
+      "source": "https://www.cameroncad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Cameron County",
+      "status": "Official bookmarked destination; interactive queries not tested.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Cameron CAD — Map search",
+      "url": "https://www.cameroncad.org/Pages/MapSearch",
+      "source": "https://www.cameroncad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Cameron County",
+      "status": "Official bookmarked map destination; interactions not tested.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Cameron CAD — Truth in taxation",
+      "url": "https://cameron.trueprodigy-taxtransparency.com/taxTransparency/propertySearch",
+      "source": "https://www.cameroncad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Cameron County",
+      "status": "Tax transparency service; not a payment portal.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
     }
   ],
   "Camp": [
@@ -6845,6 +6888,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hidalgo CAD — Property search",
+      "url": "https://hidalgoad.org/property-search",
+      "source": "https://hidalgoad.org/property-search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hidalgo County",
+      "status": "Official search page identified; interactive rendering and queries not tested.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
     }
   ],
   "Hill": [
@@ -6924,6 +6982,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hill CAD — Property search",
+      "url": "https://esearch.hillcad.org/",
+      "source": "https://esearch.hillcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hill County",
+      "status": "Search page text reviewed; queries not tested.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
     }
   ],
   "Hockley": [
@@ -9232,6 +9305,50 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Lubbock CAD — Advanced property search",
+      "url": "https://www.lubbockcad.org/Advanced-Search",
+      "source": "https://lubbockcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lubbock County",
+      "status": "Search form visible; queries not tested.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Lubbock CAD — Tax estimator",
+      "url": "https://www.lubbockcad.org/Estimate-Taxes",
+      "source": "https://www.lubbockcad.org/Estimate-Taxes",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Lubbock County",
+      "status": "Estimate tool, not actual tax bill or payment portal.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Lubbock CAD — Property and tax information",
+      "url": "https://lubbockcad.org/Property-And-Tax-Information",
+      "source": "https://lubbockcad.org/Property-And-Tax-Information",
+      "recordTypes": [
+        "Property Tax Records",
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Lubbock County",
+      "status": "Published tax and appraisal information directory.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
     }
   ],
   "Lynn": [
@@ -10615,6 +10732,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Navarro CAD — Property search guidance",
+      "url": "https://navarrocad.com/?p=503",
+      "source": "https://navarrocad.com/?p=503",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Navarro County",
+      "status": "Official property search page; search form functionality not verified.",
+      "reviewStatus": "Published source reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; use official service directly"
     }
   ],
   "Newton": [
