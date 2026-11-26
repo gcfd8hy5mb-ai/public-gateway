@@ -3415,6 +3415,12 @@
   ],
   "Wheeler": [
     {
+      "url": "https://www.wheelercounty.texas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.wheelercounty.texas.gov/",
+      "status": "official agency website identified; automated check pending"
+    },
+    {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Wheeler County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
@@ -3423,13 +3429,31 @@
   ],
   "Wichita": [
     {
+      "url": "https://wichitacountytx.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://wichitacountytx.com/",
+      "status": "official agency website identified; automated check pending"
+    },
+    {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Wichita County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://wichitatax.com/",
+      "label": "County tax office",
+      "source": "https://wichitatax.com/",
+      "status": "official agency resource identified; automated check pending"
     }
   ],
   "Wilbarger": [
+    {
+      "url": "https://www.co.wilbarger.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.co.wilbarger.tx.us/",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Wilbarger County for appraisal and tax contacts",
@@ -3439,6 +3463,12 @@
   ],
   "Willacy": [
     {
+      "url": "https://www.willacy.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.willacy.gov/",
+      "status": "official agency website identified; automated check pending"
+    },
+    {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Willacy County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
@@ -3446,6 +3476,12 @@
     }
   ],
   "Williamson": [
+    {
+      "url": "https://www.wilcotx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.wilcotx.gov/",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Williamson County for appraisal and tax contacts",
@@ -3455,21 +3491,57 @@
   ],
   "Wilson": [
     {
+      "url": "https://www.wilsoncountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.wilsoncountytx.gov/",
+      "status": "official agency website identified; automated check pending"
+    },
+    {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Wilson County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://www.wilsoncountytx.gov/page/county.clerk",
+      "label": "County clerk — official public records",
+      "source": "https://www.wilsoncountytx.gov/page/county.clerk",
+      "status": "official agency resource identified; automated check pending"
+    },
+    {
+      "url": "https://www.wilsoncountytx.gov/page/District.Clerk",
+      "label": "District clerk — court records guidance",
+      "source": "https://www.wilsoncountytx.gov/page/District.Clerk",
+      "status": "official agency resource identified; automated check pending"
     }
   ],
   "Winkler": [
+    {
+      "url": "https://www.co.winkler.tx.us/27/Government",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.co.winkler.tx.us/27/Government",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Winkler County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://newtools.cira.state.tx.us/page/winkler.County.Clerk",
+      "label": "County clerk — in-person access may be required",
+      "source": "https://newtools.cira.state.tx.us/page/winkler.County.Clerk",
+      "status": "official agency resource identified; automated check pending"
     }
   ],
   "Wise": [
+    {
+      "url": "https://wisecountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://wisecountytx.gov/",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Wise County for appraisal and tax contacts",
@@ -3479,13 +3551,31 @@
   ],
   "Wood": [
     {
+      "url": "https://www.mywoodcounty.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.mywoodcounty.com/",
+      "status": "official agency website identified; automated check pending"
+    },
+    {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Wood County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://www.mywoodcounty.com/page/cc_home",
+      "label": "County clerk",
+      "source": "https://www.mywoodcounty.com/page/cc_home",
+      "status": "official agency resource identified; automated check pending"
     }
   ],
   "Yoakum": [
+    {
+      "url": "https://www.yoakumcounty.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.yoakumcounty.gov/",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Yoakum County for appraisal and tax contacts",
@@ -3495,26 +3585,74 @@
   ],
   "Young": [
     {
+      "url": "https://www.co.young.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.co.young.tx.us/",
+      "status": "official agency website identified; automated check pending"
+    },
+    {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Young County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://www.co.young.tx.us/page/young.County.Clerk",
+      "label": "County clerk",
+      "source": "https://www.co.young.tx.us/page/young.County.Clerk",
+      "status": "official agency resource identified; automated check pending"
+    },
+    {
+      "url": "https://youngcad.org/",
+      "label": "Appraisal district",
+      "source": "https://youngcad.org/",
+      "status": "official agency resource identified; automated check pending"
     }
   ],
   "Zapata": [
+    {
+      "url": "https://www.co.zapata.tx.us/page/zapata.home",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.co.zapata.tx.us/page/zapata.home",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Zapata County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://zapatacad.com/",
+      "label": "Appraisal district",
+      "source": "https://zapatacad.com/",
+      "status": "official agency resource identified; automated check pending"
     }
   ],
   "Zavala": [
+    {
+      "url": "https://www.co.zavala.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://www.co.zavala.tx.us/",
+      "status": "official agency website identified; automated check pending"
+    },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "label": "State Comptroller — select Zavala County for appraisal and tax contacts",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal"
+    },
+    {
+      "url": "https://zavalacad.com/",
+      "label": "Appraisal district",
+      "source": "https://zavalacad.com/",
+      "status": "official agency resource identified; automated check pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/zavala.php",
+      "label": "State Comptroller — county-specific contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/zavala.php",
+      "status": "official agency resource identified; automated check pending"
     }
   ]
 }
