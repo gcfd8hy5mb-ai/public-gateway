@@ -2424,6 +2424,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Brazos CAD property search",
+      "url": "https://esearch.brazoscad.org/",
+      "source": "https://brazoscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Brazos County",
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Brewster": [
@@ -3034,16 +3049,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Appraisal property search",
+      "label": "Camp CAD property search",
       "url": "https://esearch.campcad.org/",
       "recordTypes": [
-        "Property Records"
+        "Property Records",
+        "Property Appraisals"
       ],
-      "status": "Online service or published records; coverage and fees may vary.",
-      "access": "See agency for terms and eligibility",
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "access": "See agency terms",
       "source": "https://esearch.campcad.org/",
-      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Camp County"
     },
     {
       "label": "District clerk",
@@ -3145,16 +3163,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Appraisal property search",
+      "label": "Cass CAD property search",
       "url": "https://esearch.casscad.org/",
       "recordTypes": [
-        "Property Records"
+        "Property Records",
+        "Property Appraisals"
       ],
-      "status": "Online service or published records; coverage and fees may vary.",
-      "access": "See agency for terms and eligibility",
-      "source": "https://esearch.casscad.org/",
-      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "access": "See agency terms",
+      "source": "https://casscad.org/",
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Cass County"
     },
     {
       "label": "Appraisal tax information",
@@ -3355,6 +3376,21 @@
       "source": "https://cherokeecad.com/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Cherokee CAD property search",
+      "url": "https://esearch.cherokeecad.com/",
+      "source": "https://cherokeecad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Cherokee County",
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Childress": [
@@ -4301,16 +4337,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "label": "Appraisal property search",
+      "label": "Delta CAD property search",
       "url": "https://esearch.delta-cad.org/",
       "recordTypes": [
-        "Property Records"
+        "Property Records",
+        "Property Appraisals"
       ],
-      "status": "Direct appraisal search.",
-      "access": "See agency for terms",
-      "source": "https://esearch.delta-cad.org/",
-      "reviewStatus": "Official source identified; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "access": "See agency terms",
+      "source": "https://delta-cad.org/",
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Delta County"
     },
     {
       "label": "Appraisal district",
@@ -5885,6 +5924,21 @@
       "source": "https://gcad.org/1123-2/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Gregg CAD property search",
+      "url": "https://search.gcad.org/",
+      "source": "https://gcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Gregg County",
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Grimes": [
@@ -11371,16 +11425,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Appraisal property search",
+      "label": "Red River CAD property search",
       "url": "https://rrcad.org/property-search",
       "recordTypes": [
-        "Property Records"
+        "Property Records",
+        "Property Appraisals"
       ],
-      "status": "Appraisal search; not a title determination.",
-      "access": "See agency for terms",
+      "status": "Dedicated public appraisal search form identified; individual queries not tested.",
+      "access": "See agency terms",
       "source": "https://rrcad.org/property-search",
-      "reviewStatus": "Official source identified; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Search form reviewed; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Red River County"
     },
     {
       "label": "County clerk",
