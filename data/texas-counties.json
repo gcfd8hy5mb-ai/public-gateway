@@ -185,6 +185,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Anderson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Andrews": [
@@ -193,6 +199,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Andrews County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Angelina": [
@@ -201,6 +213,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Angelina County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Aransas": [
@@ -209,6 +227,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Aransas County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Archer": [
@@ -217,6 +241,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Archer County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Armstrong": [
@@ -225,6 +255,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Armstrong County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Atascosa": [
@@ -233,6 +269,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Atascosa County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Austin": [
@@ -241,6 +283,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Austin County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bailey": [
@@ -249,6 +297,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bailey County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bandera": [
@@ -257,6 +311,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bandera County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bastrop": [
@@ -265,6 +325,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bastrop County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Baylor": [
@@ -273,6 +339,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Baylor County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bee": [
@@ -281,6 +353,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bee County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bell": [
@@ -289,6 +367,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Blanco": [
@@ -297,6 +381,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Blanco County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Borden": [
@@ -305,6 +395,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Borden County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bosque": [
@@ -313,6 +409,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bosque County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Bowie": [
@@ -321,6 +423,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Bowie County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Brazoria": [
@@ -329,6 +437,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Brazoria County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Brazos": [
@@ -337,6 +451,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Brazos County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Brewster": [
@@ -345,6 +465,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Brewster County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Briscoe": [
@@ -353,6 +479,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Briscoe County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Brooks": [
@@ -361,6 +493,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Brooks County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Brown": [
@@ -369,6 +507,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Brown County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Burleson": [
@@ -377,6 +521,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Burleson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Burnet": [
@@ -385,6 +535,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Burnet County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Caldwell": [
@@ -393,6 +549,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Caldwell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Calhoun": [
@@ -401,6 +563,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Calhoun County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Callahan": [
@@ -409,6 +577,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Callahan County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Cameron": [
@@ -417,6 +591,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Cameron County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Camp": [
@@ -425,6 +605,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Camp County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Carson": [
@@ -433,6 +619,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Carson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Cass": [
@@ -441,6 +633,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Cass County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Castro": [
@@ -449,6 +647,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Castro County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Chambers": [
@@ -457,6 +661,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Chambers County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Cherokee": [
@@ -465,6 +675,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Cherokee County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Childress": [
@@ -473,6 +689,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Childress County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Clay": [
@@ -481,6 +703,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Clay County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Cochran": [
@@ -489,6 +717,12 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Cochran County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ],
   "Coke": [
@@ -497,6 +731,2790 @@
       "label": "County government — locate clerk and court offices",
       "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
       "status": "source-listed; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Coke County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Coleman": [
+    {
+      "url": "https://www.co.coleman.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Coleman County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Collingsworth": [
+    {
+      "url": "https://www.co.collingsworth.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Collingsworth County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Colorado": [
+    {
+      "url": "https://www.co.colorado.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Colorado County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Comal": [
+    {
+      "url": "https://www.co.comal.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Comal County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Comanche": [
+    {
+      "url": "https://www.co.comanche.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Comanche County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Concho": [
+    {
+      "url": "https://www.co.concho.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Concho County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Cooke": [
+    {
+      "url": "https://www.co.cooke.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Cooke County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Coryell": [
+    {
+      "url": "https://www.co.coryell.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Coryell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Cottle": [
+    {
+      "url": "https://www.co.cottle.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Cottle County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Crane": [
+    {
+      "url": "https://www.co.crane.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Crane County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Crockett": [
+    {
+      "url": "https://www.co.crockett.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Crockett County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Crosby": [
+    {
+      "url": "https://www.co.crosby.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Crosby County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Culberson": [
+    {
+      "url": "https://www.co.culberson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Culberson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Dallam": [
+    {
+      "url": "https://www.dallam.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Dallam County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Dawson": [
+    {
+      "url": "https://www.co.dawson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Dawson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Deaf Smith": [
+    {
+      "url": "https://www.co.deaf-smith.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Deaf Smith County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Delta": [
+    {
+      "url": "https://www.deltacountytx.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Delta County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "DeWitt": [
+    {
+      "url": "https://www.co.dewitt.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select DeWitt County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Dickens": [
+    {
+      "url": "https://www.co.dickens.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Dickens County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Dimmit": [
+    {
+      "url": "https://www.dimmitcounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Dimmit County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Donley": [
+    {
+      "url": "https://www.co.donley.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Donley County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Duval": [
+    {
+      "url": "https://www.co.duval.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Duval County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Eastland": [
+    {
+      "url": "https://www.eastlandcountytexas.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Eastland County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Ector": [
+    {
+      "url": "https://www.co.ector.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Ector County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Edwards": [
+    {
+      "url": "https://www.co.edwards.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Edwards County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Ellis": [
+    {
+      "url": "https://www.co.ellis.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Ellis County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Erath": [
+    {
+      "url": "https://www.co.erath.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Erath County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Falls": [
+    {
+      "url": "https://www.co.falls.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Falls County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Fannin": [
+    {
+      "url": "https://www.co.fannin.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Fannin County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Fayette": [
+    {
+      "url": "https://www.co.fayette.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Fayette County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Fisher": [
+    {
+      "url": "https://www.fishercounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Fisher County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Floyd": [
+    {
+      "url": "https://www.co.floyd.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Floyd County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Foard": [
+    {
+      "url": "https://www.foardcounty.texas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Foard County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Franklin": [
+    {
+      "url": "https://www.co.franklin.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Franklin County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Freestone": [
+    {
+      "url": "https://www.co.freestone.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Freestone County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Frio": [
+    {
+      "url": "https://www.co.frio.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Frio County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Gaines": [
+    {
+      "url": "https://www.co.gaines.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Gaines County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Galveston": [
+    {
+      "url": "https://www.galvestoncountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Galveston County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Garza": [
+    {
+      "url": "https://www.garzacounty.net/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Garza County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Gillespie": [
+    {
+      "url": "https://www.gillespiecounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Gillespie County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Glasscock": [
+    {
+      "url": "https://www.co.glasscock.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Glasscock County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Goliad": [
+    {
+      "url": "https://www.co.goliad.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Goliad County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Gonzales": [
+    {
+      "url": "https://www.co.gonzales.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Gonzales County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Gray": [
+    {
+      "url": "https://www.co.gray.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Gray County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Grayson": [
+    {
+      "url": "https://www.co.grayson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Grayson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Gregg": [
+    {
+      "url": "https://www.co.gregg.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Gregg County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Grimes": [
+    {
+      "url": "https://grimescountytexas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Grimes County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Guadalupe": [
+    {
+      "url": "https://www.co.guadalupe.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Guadalupe County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hale": [
+    {
+      "url": "https://www.halecounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hale County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hall": [
+    {
+      "url": "https://www.co.hall.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hall County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hamilton": [
+    {
+      "url": "https://www.co.hamilton.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hamilton County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hansford": [
+    {
+      "url": "https://www.co.hansford.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hansford County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hardeman": [
+    {
+      "url": "https://www.co.hardeman.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hardeman County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hardin": [
+    {
+      "url": "https://www.co.hardin.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hardin County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Harrison": [
+    {
+      "url": "https://www.harrisoncountytexas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Harrison County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hartley": [
+    {
+      "url": "https://www.co.hartley.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hartley County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Haskell": [
+    {
+      "url": "https://www.haskellcountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Haskell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hays": [
+    {
+      "url": "https://www.hayscountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hays County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hemphill": [
+    {
+      "url": "https://www.co.hemphill.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hemphill County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Henderson": [
+    {
+      "url": "https://www.henderson-county.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Henderson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hidalgo": [
+    {
+      "url": "https://www.hidalgocounty.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hidalgo County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hill": [
+    {
+      "url": "https://www.co.hill.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hill County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hockley": [
+    {
+      "url": "https://www.co.hockley.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hockley County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hood": [
+    {
+      "url": "https://www.co.hood.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hood County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hopkins": [
+    {
+      "url": "https://www.hopkinscountytx.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hopkins County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Houston": [
+    {
+      "url": "https://www.co.houston.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Houston County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Howard": [
+    {
+      "url": "https://www.co.howard.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Howard County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hudspeth": [
+    {
+      "url": "https://www.co.hudspeth.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hudspeth County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hunt": [
+    {
+      "url": "https://www.huntcounty.net/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hunt County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Hutchinson": [
+    {
+      "url": "https://www.co.hutchinson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Hutchinson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Irion": [
+    {
+      "url": "https://www.co.irion.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Irion County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jack": [
+    {
+      "url": "https://www.jackcounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jack County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jackson": [
+    {
+      "url": "https://www.co.jackson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jackson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jasper": [
+    {
+      "url": "https://www.co.jasper.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jasper County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jeff Davis": [
+    {
+      "url": "https://www.co.jeff-davis.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jeff Davis County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jefferson": [
+    {
+      "url": "https://www.co.jefferson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jefferson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jim Hogg": [
+    {
+      "url": "https://www.co.jim-hogg.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jim Hogg County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jim Wells": [
+    {
+      "url": "https://www.co.jim-wells.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jim Wells County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Johnson": [
+    {
+      "url": "https://www.johnsoncountytx.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Johnson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Jones": [
+    {
+      "url": "https://www.co.jones.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Jones County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Karnes": [
+    {
+      "url": "https://www.co.karnes.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Karnes County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kaufman": [
+    {
+      "url": "https://www.kaufmancounty.net/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kaufman County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kendall": [
+    {
+      "url": "https://www.co.kendall.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kendall County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kenedy": [
+    {
+      "url": "https://www.co.kenedy.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kenedy County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kent": [
+    {
+      "url": "https://www.co.kent.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kent County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kerr": [
+    {
+      "url": "https://kerrcountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kerr County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kimble": [
+    {
+      "url": "https://www.co.kimble.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kimble County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "King": [
+    {
+      "url": "https://www.co.king.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select King County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kinney": [
+    {
+      "url": "https://www.co.kinney.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kinney County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Kleberg": [
+    {
+      "url": "https://www.co.kleberg.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Kleberg County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Knox": [
+    {
+      "url": "https://www.knoxcountytexas.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Knox County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "La Salle": [
+    {
+      "url": "https://www.co.la-salle.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select La Salle County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lamb": [
+    {
+      "url": "https://www.co.lamb.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lamb County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lampasas": [
+    {
+      "url": "https://www.co.lampasas.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lampasas County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lavaca": [
+    {
+      "url": "https://www.co.lavaca.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lavaca County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lee": [
+    {
+      "url": "https://www.co.lee.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lee County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Leon": [
+    {
+      "url": "https://www.co.leon.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Leon County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Liberty": [
+    {
+      "url": "https://www.co.liberty.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Liberty County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Limestone": [
+    {
+      "url": "https://www.co.limestone.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Limestone County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lipscomb": [
+    {
+      "url": "https://www.co.lipscomb.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lipscomb County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Live Oak": [
+    {
+      "url": "https://www.co.live-oak.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Live Oak County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Llano": [
+    {
+      "url": "https://www.co.llano.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Llano County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Loving": [
+    {
+      "url": "https://www.co.loving.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Loving County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lubbock": [
+    {
+      "url": "https://www.co.lubbock.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lubbock County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Lynn": [
+    {
+      "url": "https://www.co.lynn.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Lynn County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Madison": [
+    {
+      "url": "https://www.co.madison.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Madison County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Marion": [
+    {
+      "url": "https://www.co.marion.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Marion County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Martin": [
+    {
+      "url": "https://www.co.martin.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Martin County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Mason": [
+    {
+      "url": "https://www.co.mason.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Mason County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Matagorda": [
+    {
+      "url": "https://www.matagordatx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Matagorda County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Maverick": [
+    {
+      "url": "https://co.maverick.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Maverick County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "McCulloch": [
+    {
+      "url": "https://www.co.mcculloch.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select McCulloch County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "McLennan": [
+    {
+      "url": "https://www.co.mclennan.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select McLennan County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "McMullen": [
+    {
+      "url": "https://mcmullencounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select McMullen County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Medina": [
+    {
+      "url": "https://www.medinacountytexas.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Medina County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Menard": [
+    {
+      "url": "https://www.co.menard.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Menard County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Midland": [
+    {
+      "url": "https://www.co.midland.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Midland County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Milam": [
+    {
+      "url": "https://www.milamcounty.net/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Milam County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Mills": [
+    {
+      "url": "https://www.co.mills.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Mills County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Mitchell": [
+    {
+      "url": "https://www.co.mitchell.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Mitchell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Montague": [
+    {
+      "url": "https://www.co.montague.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Montague County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Montgomery": [
+    {
+      "url": "https://www.mctx.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Montgomery County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Moore": [
+    {
+      "url": "https://www.co.moore.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Moore County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Morris": [
+    {
+      "url": "https://www.co.morris.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Morris County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Motley": [
+    {
+      "url": "https://www.co.motley.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Motley County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Nacogdoches": [
+    {
+      "url": "https://www.co.nacogdoches.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Nacogdoches County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Navarro": [
+    {
+      "url": "https://www.co.navarro.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Navarro County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Newton": [
+    {
+      "url": "https://www.co.newton.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Newton County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Nolan": [
+    {
+      "url": "https://www.co.nolan.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Nolan County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Nueces": [
+    {
+      "url": "https://www.co.nueces.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Nueces County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Ochiltree": [
+    {
+      "url": "https://www.co.ochiltree.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Ochiltree County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Oldham": [
+    {
+      "url": "https://www.co.oldham.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Oldham County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Orange": [
+    {
+      "url": "https://www.co.orange.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Orange County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Palo Pinto": [
+    {
+      "url": "https://www.co.palo-pinto.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Palo Pinto County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Panola": [
+    {
+      "url": "https://www.co.panola.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Panola County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Parker": [
+    {
+      "url": "https://www.parkercountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Parker County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Parmer": [
+    {
+      "url": "https://parmercounty.texas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Parmer County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Pecos": [
+    {
+      "url": "https://www.co.pecos.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Pecos County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Polk": [
+    {
+      "url": "https://www.co.polk.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Polk County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Potter": [
+    {
+      "url": "https://www.co.potter.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Potter County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Presidio": [
+    {
+      "url": "https://www.co.presidio.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Presidio County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Rains": [
+    {
+      "url": "https://www.co.rains.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Rains County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Randall": [
+    {
+      "url": "https://www.randallcounty.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Randall County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Reagan": [
+    {
+      "url": "https://www.co.reagan.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Reagan County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Real": [
+    {
+      "url": "https://www.co.real.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Real County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Red River": [
+    {
+      "url": "https://www.co.red-river.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Red River County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Reeves": [
+    {
+      "url": "https://www.reevescounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Reeves County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Refugio": [
+    {
+      "url": "https://www.co.refugio.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Refugio County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Roberts": [
+    {
+      "url": "https://www.co.roberts.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Roberts County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Robertson": [
+    {
+      "url": "https://www.co.robertson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Robertson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Rockwall": [
+    {
+      "url": "https://www.rockwallcountytexas.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Rockwall County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Runnels": [
+    {
+      "url": "https://www.runnelscounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Runnels County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Rusk": [
+    {
+      "url": "https://www.co.rusk.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Rusk County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Sabine": [
+    {
+      "url": "https://www.co.sabine.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Sabine County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "San Augustine": [
+    {
+      "url": "https://www.co.san-augustine.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select San Augustine County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "San Jacinto": [
+    {
+      "url": "https://www.co.san-jacinto.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select San Jacinto County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "San Patricio": [
+    {
+      "url": "https://www.co.san-patricio.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select San Patricio County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "San Saba": [
+    {
+      "url": "https://www.co.san-saba.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select San Saba County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Schleicher": [
+    {
+      "url": "https://www.co.schleicher.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Schleicher County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Scurry": [
+    {
+      "url": "https://www.co.scurry.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Scurry County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Shackelford": [
+    {
+      "url": "https://www.shackelfordcounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Shackelford County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Shelby": [
+    {
+      "url": "https://www.co.shelby.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Shelby County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Sherman": [
+    {
+      "url": "https://www.co.sherman.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Sherman County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Smith": [
+    {
+      "url": "https://www.smith-county.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Smith County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Somervell": [
+    {
+      "url": "https://www.somervell.co/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Somervell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Starr": [
+    {
+      "url": "https://www.co.starr.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Starr County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Stephens": [
+    {
+      "url": "https://www.co.stephens.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Stephens County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Sterling": [
+    {
+      "url": "https://www.co.sterling.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Sterling County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Stonewall": [
+    {
+      "url": "https://www.stonewallcounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Stonewall County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Sutton": [
+    {
+      "url": "https://www.co.sutton.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Sutton County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Swisher": [
+    {
+      "url": "https://www.co.swisher.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Swisher County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Taylor": [
+    {
+      "url": "https://www.taylorcountytexas.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Taylor County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Terrell": [
+    {
+      "url": "https://www.co.terrell.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Terrell County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Terry": [
+    {
+      "url": "https://www.co.terry.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Terry County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Throckmorton": [
+    {
+      "url": "https://www.throckmortoncounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Throckmorton County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Titus": [
+    {
+      "url": "https://www.co.titus.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Titus County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Tom Green": [
+    {
+      "url": "https://www.tomgreencountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Tom Green County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Trinity": [
+    {
+      "url": "https://www.co.trinity.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Trinity County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Tyler": [
+    {
+      "url": "https://www.co.tyler.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Tyler County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Upshur": [
+    {
+      "url": "https://www.countyofupshur.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Upshur County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Upton": [
+    {
+      "url": "https://www.co.upton.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Upton County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Uvalde": [
+    {
+      "url": "https://www.uvaldecounty.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Uvalde County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Val Verde": [
+    {
+      "url": "https://valverdecounty.texas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Val Verde County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Van Zandt": [
+    {
+      "url": "https://www.vanzandtcounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Van Zandt County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Victoria": [
+    {
+      "url": "https://www.vctx.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Victoria County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Walker": [
+    {
+      "url": "https://www.co.walker.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Walker County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Waller": [
+    {
+      "url": "https://www.co.waller.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Waller County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Ward": [
+    {
+      "url": "https://www.co.ward.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Ward County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Washington": [
+    {
+      "url": "https://www.co.washington.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Washington County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Webb": [
+    {
+      "url": "https://www.webbcountytx.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Webb County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wharton": [
+    {
+      "url": "https://www.co.wharton.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "listed by Texas Legislature; endpoint unchecked"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wharton County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wheeler": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wheeler County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wichita": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wichita County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wilbarger": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wilbarger County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Willacy": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Willacy County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Williamson": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Williamson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wilson": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wilson County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Winkler": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Winkler County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wise": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wise County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Wood": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Wood County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Yoakum": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Yoakum County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Young": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Young County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Zapata": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Zapata County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
+    }
+  ],
+  "Zavala": [
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "label": "State Comptroller — select Zavala County for appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
+      "status": "state directory referral; not a direct local portal"
     }
   ]
 }
