@@ -1107,7 +1107,8 @@
       "recordTypes": [
         "Legislative Records",
         "Public Meeting Records",
-        "Public Information Requests"
+        "Public Information Requests",
+        "Government Contracts"
       ],
       "destinationTier": 3,
       "jurisdiction": "City of Paris",
@@ -1204,6 +1205,67 @@
       "reviewStatus": "Official source reviewed; transactions and interactive functionality not tested",
       "reviewedOn": "2026-11-25",
       "access": "See official source for terms"
+    },
+    {
+      "label": "62nd District Court family case guidance",
+      "url": "https://www.lamarcountytx.gov/page/62nd",
+      "recordTypes": [
+        "Family Court Records",
+        "Divorce Records"
+      ],
+      "destinationTier": 4,
+      "status": "Family court orders and divorce forms; not a case search. Contact district clerk for public case records.",
+      "jurisdiction": "Lamar County",
+      "source": "https://www.lamarcountytx.gov/page/62nd",
+      "reviewStatus": "Official page reviewed; interactive services not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current access terms"
+    },
+    {
+      "label": "Paris public library historical research resources",
+      "url": "https://www.paristexas.gov/227/e-Resources",
+      "recordTypes": [
+        "Research Tools",
+        "Genealogy Records",
+        "Cemetery Records",
+        "Historical Census Records"
+      ],
+      "destinationTier": 4,
+      "status": "Library referral page links to local historical indexes maintained by third parties; not official certificates or comprehensive indexes.",
+      "jurisdiction": "City of Paris",
+      "source": "https://www.paristexas.gov/227/e-Resources",
+      "reviewStatus": "Official page reviewed; interactive services not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current access terms"
+    },
+    {
+      "label": "Paris municipal bid postings",
+      "url": "https://paristexas.gov/Bids.aspx",
+      "recordTypes": [
+        "Government Contracts"
+      ],
+      "destinationTier": 2,
+      "status": "Bid opportunities and links to procurement portal; not a comprehensive awarded contract register.",
+      "jurisdiction": "City of Paris",
+      "source": "https://paristexas.gov/Bids.aspx",
+      "reviewStatus": "Official page reviewed; interactive services not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current access terms"
+    },
+    {
+      "label": "Paris city mapping",
+      "url": "https://www.paristexas.gov/352/GIS-City-Mapping",
+      "recordTypes": [
+        "Property Maps",
+        "Zoning Records"
+      ],
+      "destinationTier": 2,
+      "status": "Official municipal GIS page links to interactive maps; not a legal survey.",
+      "jurisdiction": "City of Paris",
+      "source": "https://www.paristexas.gov/352/GIS-City-Mapping",
+      "reviewStatus": "Official page reviewed; interactive services not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current access terms"
     }
   ],
   "Anderson": [
