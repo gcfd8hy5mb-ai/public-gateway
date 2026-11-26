@@ -5,13 +5,15 @@
   "scope": "Core records and initial Paris municipal coverage",
   "status": "incomplete",
   "gaps": [
-    "Marriage index direct search not confirmed",
     "Assumed-name index direct search not confirmed",
     "Countywide warrant search not confirmed",
     "Countywide public information request page not confirmed",
     "Tax lien coverage in county land records not confirmed",
     "Other municipalities not yet systematically reviewed",
-    "Interactive portal functionality and access fees require manual checks"
+    "Interactive portal functionality and access fees require manual checks",
+    "Local marriage index not confirmed; statewide downloadable index and county certificate ordering available",
+    "City of Paris death certificates require separate registrar; city and county published historical date ranges differ",
+    "Remaining municipal coverage not reviewed"
   ],
   "rules": [
     "One URL may support multiple record types",
@@ -19,5 +21,11 @@
     "Do not infer online availability from an agency homepage",
     "Municipal coverage must not be presented as countywide",
     "No automated collection of personal records"
+  ],
+  "confirmed": [
+    "County clerk links judicial and land records portals; both returned HTTP 403 to automated reader",
+    "County certificate order portal supports birth, death and marriage; fees and eligibility documented",
+    "Paris registrar application and fees page confirmed",
+    "State marriage/divorce indexes are downloadable and incomplete"
   ]
 }
