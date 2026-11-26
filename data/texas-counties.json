@@ -656,21 +656,24 @@
       "source": "https://www.lamarcountytx.gov/",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25",
-      "destinationTier": 4
+      "destinationTier": 4,
+      "jurisdiction": "Lamar County"
     },
     {
       "url": "https://lamarcad.org/",
       "label": "Appraisal district",
       "status": "pending",
       "reviewStatus": "not independently reviewed",
-      "destinationTier": 4
+      "destinationTier": 4,
+      "jurisdiction": "Lamar County"
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
       "label": "State Comptroller county contacts",
       "status": "pending",
       "reviewStatus": "not independently reviewed",
-      "destinationTier": 4
+      "destinationTier": 4,
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "County clerk — recorded instruments and vital records",
@@ -685,7 +688,8 @@
       "source": "https://www.lamarcountytx.gov/page/County.Clerk",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25",
-      "destinationTier": 4
+      "destinationTier": 4,
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "District clerk — court records and civil fees",
@@ -699,7 +703,8 @@
       "source": "https://www.lamarcountytx.gov/page/District.Clerk",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25",
-      "destinationTier": 4
+      "destinationTier": 4,
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "County tax assessor-collector",
@@ -712,7 +717,8 @@
       "source": "https://www.lamarcountytx.gov/page/County.Assessor.Collector",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25",
-      "destinationTier": 4
+      "destinationTier": 4,
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar County Judicial Records Search",
@@ -730,9 +736,10 @@
       "destinationTier": 2,
       "source": "https://www.lamarcountytx.gov/page/CountyServices",
       "status": "Select the relevant inquiry on the shared portal. Jail listings are not proof of conviction.",
-      "reviewStatus": "County-linked; automated access returned 403; user demonstrated portal in Safari",
+      "reviewStatus": "Official county link confirmed; automated access returned HTTP 403",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar CAD property search and tax payment",
@@ -748,7 +755,8 @@
       "status": "Search appraisal accounts; confirm tax amounts before paying.",
       "reviewStatus": "Official search page accessible",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar CAD interactive parcel map",
@@ -761,7 +769,8 @@
       "status": "Interactive parcel mapping; boundaries are not a legal survey.",
       "reviewStatus": "Official linked map; interactive functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar CAD online protest",
@@ -774,7 +783,8 @@
       "status": "Account and eligibility may be required.",
       "reviewStatus": "Official linked service; endpoint audit pending",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar CAD online forms",
@@ -787,7 +797,8 @@
       "status": "Account may be required for submissions.",
       "reviewStatus": "Official linked service; endpoint audit pending",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar CAD agent portal",
@@ -800,7 +811,8 @@
       "status": "Intended for authorized agents; eligibility applies.",
       "reviewStatus": "Official linked service; endpoint audit pending",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar County land records search",
@@ -812,9 +824,10 @@
       "destinationTier": 2,
       "source": "https://www.lamarcountytx.gov/page/County.Clerk",
       "status": "Accept the portal terms; copies may incur fees. Specific document coverage needs browser testing.",
-      "reviewStatus": "Official county link; automated access returned 403",
+      "reviewStatus": "Official county link confirmed; automated access returned HTTP 403",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar County foreclosure notices",
@@ -827,7 +840,8 @@
       "status": "Browse posted sale notices; confirm current status with the responsible office.",
       "reviewStatus": "Official listing page accessible",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar CAD tax sales",
@@ -840,7 +854,8 @@
       "status": "Browse posted tax sale information; verify sale terms.",
       "reviewStatus": "Official listing page identified",
       "reviewedOn": "2026-11-25",
-      "access": "See official portal for access terms"
+      "access": "See official portal for access terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "County clerk forms and marriage guidance",
@@ -855,7 +870,8 @@
       "source": "https://www.lamarcountytx.gov/page/FormsCC",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Paris permits, inspections and municipal records portal",
@@ -871,7 +887,8 @@
       "source": "https://public.mygov.us/paris_texas",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "City of Paris"
     },
     {
       "label": "Paris planning and zoning",
@@ -884,7 +901,8 @@
       "source": "https://www.paristexas.gov/548/Planning-Zoning",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "City of Paris"
     },
     {
       "label": "Paris public information requests",
@@ -897,7 +915,8 @@
       "source": "https://www.paristexas.gov/206/Texas-Public-Information-Act",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "City of Paris"
     },
     {
       "label": "Paris police records requests",
@@ -912,7 +931,8 @@
       "source": "https://www.paristexas.gov/593/Records-Division",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "City of Paris"
     },
     {
       "label": "Paris municipal court citation services",
@@ -925,7 +945,8 @@
       "source": "https://www.paristexas.gov/100/Fines-Payment-Methods",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "City of Paris"
     },
     {
       "label": "Lamar County sheriff office",
@@ -938,7 +959,8 @@
       "source": "https://www.lamarcountytx.gov/page/sheriff",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "Lamar County"
     },
     {
       "label": "Lamar County audit reports",
@@ -951,7 +973,57 @@
       "source": "https://www.lamarcountytx.gov/page/Audit",
       "reviewStatus": "Official source reviewed; service functionality not tested",
       "reviewedOn": "2026-11-25",
-      "access": "See agency for terms"
+      "access": "See agency for terms",
+      "jurisdiction": "Lamar County"
+    },
+    {
+      "label": "Lamar County certified vital records orders",
+      "url": "https://lamartx.permitium.com/rod",
+      "recordTypes": [
+        "Vital Records",
+        "Birth Records",
+        "Death Records",
+        "Marriage Records"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "Lamar County",
+      "source": "https://www.lamarcountytx.gov/page/FormsCC",
+      "status": "Certificate orders, not public search. Paris deaths since 1950 referred to city registrar.",
+      "access": "ID and eligibility rules; birth $23, death $21, marriage $7; $5 online processing fee; delivery fees may apply.",
+      "reviewStatus": "Official source and destination reviewed; transaction not tested",
+      "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Paris birth and death certificate applications",
+      "url": "https://paristexas.gov/213/Fees-Applications",
+      "recordTypes": [
+        "Vital Records",
+        "Birth Records",
+        "Death Records"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "City of Paris",
+      "source": "https://www.paristexas.gov/211/Birth-Death-Records",
+      "status": "Mail or in-person application; city death records only.",
+      "access": "Qualified applicants; birth $23, death $21; additional fees may apply.",
+      "reviewStatus": "Official source and destination reviewed; transaction not tested",
+      "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Texas marriage and divorce public indexes",
+      "url": "https://www.dshs.texas.gov/vital-statistics/marriage-divorce-records/marriage-divorce-indexes",
+      "recordTypes": [
+        "Vital Records",
+        "Marriage Records",
+        "Divorce Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Texas statewide",
+      "source": "https://www.dshs.texas.gov/vital-statistics/marriage-divorce-records",
+      "status": "Downloadable annual indexes; marriage from 1966, divorce from 1968. Incomplete coverage; not certified copies.",
+      "access": "Public downloads.",
+      "reviewStatus": "Official source and destination reviewed; transaction not tested",
+      "reviewedOn": "2026-11-25"
     }
   ],
   "Anderson": [
