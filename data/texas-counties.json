@@ -1948,6 +1948,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Bastrop CAD property search",
+      "url": "https://esearch.bastropcad.org/",
+      "source": "https://bastropcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bastrop County",
+      "status": "Search interface identified in published web results; individual queries not tested.",
+      "reviewStatus": "Search page identified; interactive audit and terms review pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; no automated record retrieval"
     }
   ],
   "Baylor": [
@@ -7883,6 +7898,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kaufman CAD property search",
+      "url": "https://esearch.kaufman-cad.org/",
+      "source": "https://kaufman-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kaufman County",
+      "status": "Search interface identified in published web results; individual queries not tested.",
+      "reviewStatus": "Search page identified; interactive audit and terms review pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; no automated record retrieval"
     }
   ],
   "Kendall": [
@@ -10312,16 +10342,18 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Property tax search",
+      "label": "Navarro property tax search",
       "url": "https://actweb.acttax.com/act_webdev/navarro/index.jsp",
       "recordTypes": [
         "Property Tax Records"
       ],
-      "status": "Search entry identified; queries not tested.",
-      "access": "See agency for terms and eligibility",
+      "status": "Search interface identified in published web results; individual queries not tested.",
+      "access": "See agency terms; no automated record retrieval",
       "source": "https://actweb.acttax.com/act_webdev/navarro/index.jsp",
-      "reviewStatus": "Source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Search page identified; interactive audit and terms review pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Navarro County"
     },
     {
       "label": "Navarro appraisal district — agency website",
@@ -11858,16 +11890,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Appraisal property search",
+      "label": "Rusk CAD property search",
       "url": "https://www.ruskcad.org/Home/Search",
       "recordTypes": [
-        "Property Records"
+        "Property Records",
+        "Property Appraisals"
       ],
-      "status": "Online search entry; availability, coverage and fees may vary.",
-      "access": "See agency for terms and eligibility",
-      "source": "https://www.ruskcad.org/Home/Search",
-      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "status": "Search interface identified in published web results; individual queries not tested.",
+      "access": "See agency terms; no automated record retrieval",
+      "source": "https://ruskcad.org/",
+      "reviewStatus": "Search page identified; interactive audit and terms review pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Rusk County"
     },
     {
       "label": "Rusk appraisal district — agency website",
@@ -13355,6 +13390,21 @@
       "source": "https://upshur-cad.org/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Upshur CAD property search",
+      "url": "https://esearch.upshur-cad.org/",
+      "source": "https://upshur-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Upshur County",
+      "status": "Search interface identified in published web results; individual queries not tested.",
+      "reviewStatus": "Search page identified; interactive audit and terms review pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; no automated record retrieval"
     }
   ],
   "Upton": [
