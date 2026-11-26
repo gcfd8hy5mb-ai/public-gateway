@@ -655,19 +655,22 @@
       "status": "County government homepage; local office directory.",
       "source": "https://www.lamarcountytx.gov/",
       "reviewStatus": "official source reviewed",
-      "reviewedOn": "2026-11-25"
+      "reviewedOn": "2026-11-25",
+      "destinationTier": 4
     },
     {
       "url": "https://lamarcad.org/",
       "label": "Appraisal district",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "destinationTier": 4
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
       "label": "State Comptroller county contacts",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "destinationTier": 4
     },
     {
       "label": "County clerk — recorded instruments and vital records",
@@ -681,7 +684,8 @@
       "access": "See agency for terms",
       "source": "https://www.lamarcountytx.gov/page/County.Clerk",
       "reviewStatus": "official source reviewed",
-      "reviewedOn": "2026-11-25"
+      "reviewedOn": "2026-11-25",
+      "destinationTier": 4
     },
     {
       "label": "District clerk — court records and civil fees",
@@ -694,7 +698,8 @@
       "access": "See agency for terms",
       "source": "https://www.lamarcountytx.gov/page/District.Clerk",
       "reviewStatus": "official source reviewed",
-      "reviewedOn": "2026-11-25"
+      "reviewedOn": "2026-11-25",
+      "destinationTier": 4
     },
     {
       "label": "County tax assessor-collector",
@@ -706,7 +711,136 @@
       "access": "See agency for terms",
       "source": "https://www.lamarcountytx.gov/page/County.Assessor.Collector",
       "reviewStatus": "official source reviewed",
-      "reviewedOn": "2026-11-25"
+      "reviewedOn": "2026-11-25",
+      "destinationTier": 4
+    },
+    {
+      "label": "Lamar County Judicial Records Search",
+      "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+      "recordTypes": [
+        "Court Records",
+        "Criminal Records",
+        "Civil Court Records",
+        "Probate Records",
+        "Court Calendars",
+        "Inmate Records",
+        "Arrest Records",
+        "Jail Bond Records"
+      ],
+      "destinationTier": 2,
+      "source": "https://www.lamarcountytx.gov/page/CountyServices",
+      "status": "Select the relevant inquiry on the shared portal. Jail listings are not proof of conviction.",
+      "reviewStatus": "County-linked; automated access returned 403; user demonstrated portal in Safari",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar CAD property search and tax payment",
+      "url": "https://esearch.lamarcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Ownership",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "source": "https://lamarcad.org/",
+      "status": "Search appraisal accounts; confirm tax amounts before paying.",
+      "reviewStatus": "Official search page accessible",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar CAD interactive parcel map",
+      "url": "https://gis.bisclient.com/LAMARCAD/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 1,
+      "source": "https://lamarcad.org/",
+      "status": "Interactive parcel mapping; boundaries are not a legal survey.",
+      "reviewStatus": "Official linked map; interactive functionality not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar CAD online protest",
+      "url": "https://eprotest.lamarcad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "source": "https://lamarcad.org/",
+      "status": "Account and eligibility may be required.",
+      "reviewStatus": "Official linked service; endpoint audit pending",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar CAD online forms",
+      "url": "https://portal.lamarcad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "source": "https://lamarcad.org/",
+      "status": "Account may be required for submissions.",
+      "reviewStatus": "Official linked service; endpoint audit pending",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar CAD agent portal",
+      "url": "https://agentappeals.lamarcad.org/",
+      "recordTypes": [
+        "Appraisal Agent Services"
+      ],
+      "destinationTier": 2,
+      "source": "https://lamarcad.org/",
+      "status": "Intended for authorized agents; eligibility applies.",
+      "reviewStatus": "Official linked service; endpoint audit pending",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar County land records search",
+      "url": "https://lamarcountytx-web.tylerhost.net/web",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records"
+      ],
+      "destinationTier": 2,
+      "source": "https://www.lamarcountytx.gov/page/County.Clerk",
+      "status": "Accept the portal terms; copies may incur fees. Specific document coverage needs browser testing.",
+      "reviewStatus": "Official county link; automated access returned 403",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar County foreclosure notices",
+      "url": "https://www.lamarcountytx.gov/page/Foreclosure.Sales",
+      "recordTypes": [
+        "Foreclosure Records"
+      ],
+      "destinationTier": 2,
+      "source": "https://www.lamarcountytx.gov/page/County.Clerk",
+      "status": "Browse posted sale notices; confirm current status with the responsible office.",
+      "reviewStatus": "Official listing page accessible",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
+    },
+    {
+      "label": "Lamar CAD tax sales",
+      "url": "https://lamarcad.org/tax-sales/",
+      "recordTypes": [
+        "Public Auctions"
+      ],
+      "destinationTier": 2,
+      "source": "https://lamarcad.org/",
+      "status": "Browse posted tax sale information; verify sale terms.",
+      "reviewStatus": "Official listing page identified",
+      "reviewedOn": "2026-11-25",
+      "access": "See official portal for access terms"
     }
   ],
   "Anderson": [
