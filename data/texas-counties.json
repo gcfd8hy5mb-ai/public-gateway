@@ -1465,6 +1465,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County and district clerk",
+      "url": "https://www.co.armstrong.tx.us/page/armstrong.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.armstrong.tx.us/page/armstrong.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Atascosa": [
@@ -1799,6 +1811,30 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk records guidance",
+      "url": "https://www.bosquecounty.gov/171/County-Clerk---Recording-lifes-events-si",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.bosquecounty.gov/171/County-Clerk---Recording-lifes-events-si",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.bosquecounty.gov/183/District-Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.bosquecounty.gov/183/District-Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Bowie": [
@@ -2464,6 +2500,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk official records links",
+      "url": "https://www.co.carson.tx.us/page/carson.county.clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.carson.tx.us/page/carson.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Cass": [
@@ -2844,6 +2892,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk recording guidance",
+      "url": "https://www.co.collingsworth.tx.us/page/collingsworth.county.clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.collingsworth.tx.us/page/collingsworth.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Colorado": [
@@ -3220,6 +3280,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County and district clerk",
+      "url": "https://www.co.dallam.tx.us/county/clerk.shtml",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.dallam.tx.us/county/clerk.shtml",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Dawson": [
@@ -3276,6 +3348,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk deed search links",
+      "url": "https://www.co.deaf-smith.tx.us/page/deafsmith.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.deaf-smith.tx.us/page/deafsmith.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Delta": [
@@ -3443,6 +3527,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk recording guidance",
+      "url": "https://www.co.donley.tx.us/page/County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.donley.tx.us/page/County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Duval": [
@@ -4317,6 +4413,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk official records guidance",
+      "url": "https://www.graycountyclerk.org/",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.gray.tx.us/page/gray.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Grayson": [
@@ -4644,6 +4752,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.co.hansford.tx.us/page/county.clerk",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.hansford.tx.us/page/county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Hardeman": [
@@ -4818,6 +4938,30 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk recording division",
+      "url": "https://www.co.hartley.tx.us/page/County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.hartley.tx.us/page/County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.hartley.tx.us/page/District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.hartley.tx.us/page/District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Haskell": [
@@ -4915,6 +5059,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County and district clerk land record guidance",
+      "url": "https://www.co.hemphill.tx.us/page/hemphill.county.clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.hemphill.tx.us/page/hemphill.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Henderson": [
@@ -5409,6 +5565,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk deed search links",
+      "url": "https://newtools.cira.state.tx.us/page/hutchinson.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://newtools.cira.state.tx.us/page/hutchinson.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Irion": [
@@ -6551,6 +6719,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk land records guidance",
+      "url": "https://www.co.lipscomb.tx.us/page/lipscomb.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.lipscomb.tx.us/page/lipscomb.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Live Oak": [
@@ -7468,6 +7648,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk recording guidance",
+      "url": "https://www.co.moore.tx.us/page/moore.county.clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.moore.tx.us/page/moore.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Morris": [
@@ -7781,6 +7973,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk official records guidance",
+      "url": "https://www.co.ochiltree.tx.us/page/County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.ochiltree.tx.us/page/County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Oldham": [
@@ -7797,6 +8001,30 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.co.oldham.tx.us/page/County.Clerk",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.oldham.tx.us/page/County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.oldham.tx.us/page/District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.oldham.tx.us/page/District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Orange": [
@@ -8118,6 +8346,54 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County-designated official records self-service",
+      "url": "https://pottercountytx-web.tylerhost.net/web/user/disclaimer",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official search entry page located; queries not tested.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.potter.tx.us/page/OpenRecords",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Open records requests",
+      "url": "https://www.co.potter.tx.us/page/OpenRecords",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.potter.tx.us/page/OpenRecords",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County clerk court record inspection guidance",
+      "url": "https://www.co.potter.tx.us/page/County.Clerk.Info",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.potter.tx.us/page/County.Clerk.Info",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://newtools.cira.state.tx.us/page/potter.District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://newtools.cira.state.tx.us/page/potter.District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Presidio": [
@@ -8227,6 +8503,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://randallcounty.gov/182/County-Clerk",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://randallcounty.gov/182/County-Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Reagan": [
@@ -8470,6 +8758,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County and district clerk",
+      "url": "https://www.co.roberts.tx.us/page/roberts.County.Clerk",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.roberts.tx.us/page/roberts.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Robertson": [
@@ -9011,6 +9311,18 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "District clerk records access guidance",
+      "url": "https://www.shermancountytx.gov/page/District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.shermancountytx.gov/page/District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Smith": [
@@ -10040,6 +10352,54 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.co.waller.tx.us/page/CC.CountyClerk",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.waller.tx.us/page/CC.CountyClerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk court access links",
+      "url": "https://www.co.waller.tx.us/page/District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.waller.tx.us/page/District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Public information requests",
+      "url": "https://www.co.waller.tx.us/page/County.PublicInformation",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.waller.tx.us/page/County.PublicInformation",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Assumed name records guidance",
+      "url": "https://www.co.waller.tx.us/page/CC.AssumedName",
+      "recordTypes": [
+        "Assumed Business Names"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.waller.tx.us/page/CC.AssumedName",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Ward": [
@@ -10229,6 +10589,30 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.wheelercounty.texas.gov/page/County.Clerk",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.wheelercounty.texas.gov/page/County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk and court activity reports",
+      "url": "https://www.wheelercounty.texas.gov/page/District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance or linked services; not a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.wheelercounty.texas.gov/page/District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Wichita": [
