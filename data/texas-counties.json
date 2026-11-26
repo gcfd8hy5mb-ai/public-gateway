@@ -748,6 +748,21 @@
       "label": "State Comptroller county contacts",
       "status": "pending",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Fort Bend CAD property search",
+      "url": "https://esearch.fbcad.org/search/",
+      "source": "https://www.fbcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Fort Bend County",
+      "status": "Dedicated appraisal search page identified; individual queries not tested.",
+      "reviewStatus": "Public search page identified in web results; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "El Paso": [
@@ -5788,6 +5803,21 @@
       "source": "https://www.co.grayson.tx.us/page/cclk.home",
       "reviewStatus": "Official source reviewed; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Grayson CAD property search",
+      "url": "https://esearch.graysonappraisal.org/?valid=false",
+      "source": "https://graysonappraisal.org/property-search/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Grayson County",
+      "status": "Dedicated appraisal search page identified; individual queries not tested.",
+      "reviewStatus": "Public search page identified in web results; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Gregg": [
@@ -9964,6 +9994,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Montgomery CAD property search",
+      "url": "https://www.mcad-tx.org/property-search",
+      "source": "https://www.mcad-tx.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Montgomery County",
+      "status": "Dedicated appraisal search page identified; individual queries not tested.",
+      "reviewStatus": "Public search page identified in web results; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Moore": [
@@ -13158,6 +13203,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Tyler CAD property search",
+      "url": "https://esearch.tylercad.net/",
+      "source": "https://tylercad.net/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Tyler County",
+      "status": "Dedicated appraisal search page identified; individual queries not tested.",
+      "reviewStatus": "Public search page identified in web results; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Upshur": [
@@ -14186,6 +14246,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Williamson CAD property search",
+      "url": "https://search.wcad.org/Advanced-Search",
+      "source": "https://www.wcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Williamson County",
+      "status": "Dedicated appraisal search page identified; individual queries not tested.",
+      "reviewStatus": "Public search page identified in web results; interactive audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Wilson": [
