@@ -34,3 +34,6 @@ form{flex-direction:row;align-items:stretch}form input{font-size:16px;padding:10
 
 /* Geographic map replaces the schematic tiles. */
 .geo-map{display:block;width:100%;height:auto;max-width:680px;margin:auto;overflow:visible}.geo-map path{fill:#102c43;stroke:#fff;stroke-width:1.1;stroke-linejoin:round;vector-effect:non-scaling-stroke}.geo-map .available path{fill:#e4b64e}.geo-map a:hover path,.geo-map a:focus-visible path{fill:#d4a84a;stroke:#132a40;stroke-width:2}.geo-map a:focus-visible{outline:none}.state-overview{gap:16px}.state-links{margin:8px 0}.map-note{margin:4px 0}.state-disclosure{margin-top:8px}@media(max-width:600px){#states{padding-top:16px;padding-bottom:16px}.state-overview{gap:4px}.state-links{margin:5px 0}.geo-map{max-height:240px}.map-note{font-size:.72rem}}
+
+/* Directory search filters */
+.directory form{flex-wrap:wrap;gap:0}.directory-filters{display:flex;flex:0 0 100%;gap:14px;margin-top:12px}.directory-filters label{display:flex;flex:1;flex-direction:column;gap:4px;font-size:.85rem;font-weight:600}.directory-filters select{width:100%;min-height:44px;padding:8px;border:1px solid #a9b6c1;background:white;color:#142235;font:inherit}@media(max-width:600px){.directory-filters{gap:8px}.directory-filters select{font-size:16px}.directory form>button{min-width:96px}}
