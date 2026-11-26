@@ -37,3 +37,6 @@ form{flex-direction:row;align-items:stretch}form input{font-size:16px;padding:10
 
 /* Directory search filters */
 .directory form{flex-wrap:wrap;gap:0}.directory-filters{display:flex;flex:0 0 100%;gap:14px;margin-top:12px}.directory-filters label{display:flex;flex:1;flex-direction:column;gap:4px;font-size:.85rem;font-weight:600}.directory-filters select{width:100%;min-height:44px;padding:8px;border:1px solid #a9b6c1;background:white;color:#142235;font:inherit}@media(max-width:600px){.directory-filters{gap:8px}.directory-filters select{font-size:16px}.directory form>button{min-width:96px}}
+
+/* County filter on main directory */
+.county-filter{flex:0 0 100%;display:flex;flex-direction:column;gap:5px;margin-top:12px}.county-filter[hidden]{display:none}.county-filter label{font-size:.85rem;font-weight:600}.county-filter select{width:100%;min-height:44px;padding:8px;border:1px solid #a9b6c1;background:white;color:#142235;font-size:16px}.county-filter a{font-size:.85rem;margin-top:3px}
