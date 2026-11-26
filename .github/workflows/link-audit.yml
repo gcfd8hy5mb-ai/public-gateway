@@ -1,0 +1,21 @@
+name: Public Gateway link audit
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 9 * * 1'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check official resource URLs
+        run: python3 scripts/check_links.py
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-gateway-link-audit
+          path: reports/link-audit.json
+          retention-days: 30
