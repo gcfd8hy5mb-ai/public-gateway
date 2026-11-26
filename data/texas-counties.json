@@ -14,6 +14,70 @@
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/dallas.php",
       "label": "State Comptroller county contacts",
       "status": "pending"
+    },
+    {
+      "label": "Dallas County jail lookup",
+      "url": "https://www.dallascounty.org/jaillookup/",
+      "recordTypes": [
+        "Arrest Records",
+        "Inmate Records"
+      ],
+      "status": "Public lookup; custody is not evidence of guilt.",
+      "access": "See agency for terms",
+      "source": "https://www.dallascounty.org/jaillookup/"
+    },
+    {
+      "label": "Dallas County Sheriff warrant guidance",
+      "url": "https://www.dallascounty.org/departments/sheriff/how-do-i/",
+      "recordTypes": [
+        "Warrant Records"
+      ],
+      "status": "Agency guidance; confirm status with the responsible authority.",
+      "access": "See agency for terms",
+      "source": "https://www.dallascounty.org/departments/sheriff/how-do-i/"
+    },
+    {
+      "label": "Dallas County online record search",
+      "url": "https://elections.dallascounty.org/services/record-search/",
+      "recordTypes": [
+        "Traffic Records"
+      ],
+      "status": "Court and clerk search directory; coverage varies.",
+      "access": "See agency for terms",
+      "source": "https://elections.dallascounty.org/services/record-search/"
+    },
+    {
+      "label": "Dallas County recording division",
+      "url": "https://elections.dallascounty.org/government/county-clerk/recording/",
+      "recordTypes": [
+        "Mortgage Records",
+        "Land and Deed Records",
+        "Tax Liens",
+        "Assumed Business Names"
+      ],
+      "status": "Recorded instruments and eligible assumed names; copies may cost money.",
+      "access": "See agency for terms",
+      "source": "https://elections.dallascounty.org/government/county-clerk/recording/"
+    },
+    {
+      "label": "City of Dallas permits and inspections",
+      "url": "https://dallascityhall.com/departments/sustainabledevelopment/Pages/permits-inspections.aspx",
+      "recordTypes": [
+        "Building Permits"
+      ],
+      "status": "Municipal coverage only; not the entire county.",
+      "access": "See agency for terms",
+      "source": "https://dallascityhall.com/departments/sustainabledevelopment/Pages/permits-inspections.aspx"
+    },
+    {
+      "label": "City of Dallas zoning resources",
+      "url": "https://dallascityhall.com/departments/pnv/Pages/Zoning-Resources.aspx",
+      "recordTypes": [
+        "Zoning Records"
+      ],
+      "status": "Municipal zoning guidance and mapping; official determinations may require a request.",
+      "access": "See agency for terms",
+      "source": "https://dallascityhall.com/departments/pnv/Pages/Zoning-Resources.aspx"
     }
   ],
   "Tarrant": [
