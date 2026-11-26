@@ -1,0 +1,1 @@
+'use strict';document.querySelectorAll('[data-category]').forEach(el=>el.addEventListener('click',()=>location.href='records.html?category='+encodeURIComponent(el.dataset.category)));document.querySelectorAll('[data-region]').forEach(el=>el.addEventListener('click',e=>{e.preventDefault();location.href='records.html?region='+encodeURIComponent(el.dataset.region);}));
