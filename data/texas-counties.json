@@ -257,6 +257,50 @@
       "source": "https://www.harriscountytx.gov/Services-Portal/Dashboards-Datasets-Hub",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "County clerk document search",
+      "url": "https://cclerk.hctx.net/applications/websearch/Home.aspx",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records",
+        "Vital Records",
+        "Assumed Business Names",
+        "Probate Records",
+        "Civil Court Records"
+      ],
+      "status": "Direct search entry point; registration and access restrictions vary.",
+      "source": "https://www.harriscountytx.gov/Services-Portal/Dashboards-Datasets-Hub",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Real property recording guidance",
+      "url": "https://www.cclerk.hctx.net/RealProperty.aspx",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records"
+      ],
+      "status": "Recording and copy fees apply.",
+      "source": "https://www.cclerk.hctx.net/RealProperty.aspx",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "District clerk records access FAQ",
+      "url": "https://www.hcdistrictclerk.com/common/faq/faq.aspx",
+      "recordTypes": [
+        "Court Records",
+        "Civil Court Records",
+        "Criminal Records"
+      ],
+      "status": "Account may be required for online case information.",
+      "source": "https://www.hcdistrictclerk.com/common/faq/faq.aspx",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
     }
   ],
   "Bexar": [
@@ -283,6 +327,77 @@
       "label": "County clerk",
       "status": "pending",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Official public records search",
+      "url": "https://bexar.tx.ds.search.govos.com/",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records",
+        "Tax Liens"
+      ],
+      "status": "Direct official vendor portal; copies may cost money.",
+      "source": "https://www.bexar.org/2949/County-Clerk-Services",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "County report and record search directory",
+      "url": "https://www.bexar.org/254/Reports-Record-Searches",
+      "recordTypes": [
+        "Court Records",
+        "Civil Court Records",
+        "Criminal Records",
+        "Probate Records"
+      ],
+      "status": "Official links to court and county searches.",
+      "source": "https://www.bexar.org/254/Reports-Record-Searches",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Public records request instructions",
+      "url": "https://www.bexar.org/3500/Public-Records-Requests",
+      "recordTypes": [
+        "Public Information Requests",
+        "Vital Records",
+        "Family Court Records",
+        "Probate Records"
+      ],
+      "status": "Identify the appropriate clerk; exemptions and fees may apply.",
+      "source": "https://www.bexar.org/3500/Public-Records-Requests",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "County clerk services",
+      "url": "https://www.bexar.org/2949/County-Clerk-Services",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Foreclosure Records",
+        "Vital Records"
+      ],
+      "status": "Office service directory and record requests.",
+      "source": "https://www.bexar.org/2949/County-Clerk-Services",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Online services directory",
+      "url": "https://www.bexar.org/101/Online-Services",
+      "recordTypes": [
+        "Property Tax Records",
+        "Court Records"
+      ],
+      "status": "Official county portal referrals.",
+      "source": "https://www.bexar.org/101/Online-Services",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
     }
   ],
   "Travis": [
@@ -423,6 +538,74 @@
       "source": "https://www.dentoncounty.gov/850/Appraisal-Districts",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Official recorded document search",
+      "url": "https://denton.tx.publicsearch.us/",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records"
+      ],
+      "status": "Direct index; copies may cost money.",
+      "source": "https://www.dentoncounty.gov/173/County-Clerk",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "County clerk records and vital statistics",
+      "url": "https://www.dentoncounty.gov/173/County-Clerk",
+      "recordTypes": [
+        "Court Records",
+        "Probate Records",
+        "Vital Records",
+        "Land and Deed Records"
+      ],
+      "status": "Office guidance; access varies.",
+      "source": "https://www.dentoncounty.gov/173/County-Clerk",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "County search directory",
+      "url": "https://www.dentoncounty.gov/1138/Search",
+      "recordTypes": [
+        "Court Records",
+        "Property Tax Records",
+        "Land and Deed Records"
+      ],
+      "status": "Official search directory.",
+      "source": "https://www.dentoncounty.gov/1138/Search",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Property tax account search",
+      "url": "https://taxweb.dentoncounty.gov/search/index?searchfield=0",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Direct tax account search; payment is separate.",
+      "source": "https://www.dentoncounty.gov/778/Tax-Assessor-Collector",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "District clerk court records",
+      "url": "https://www.dentoncounty.gov/230/District-Clerk",
+      "recordTypes": [
+        "Court Records",
+        "Civil Court Records",
+        "Family Court Records"
+      ],
+      "status": "Office and request instructions; fees and restrictions apply.",
+      "source": "https://www.dentoncounty.gov/230/District-Clerk",
+      "reviewStatus": "Official source identified in web search",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for terms"
     }
   ],
   "Fort Bend": [
