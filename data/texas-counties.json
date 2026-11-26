@@ -2527,6 +2527,43 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk records services",
+      "url": "https://www.franklincountyclerk.net/",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Vital Records"
+      ],
+      "status": "Search and order services; eligibility and fees may apply.",
+      "access": "See agency for terms",
+      "source": "https://www.franklincountyclerk.net/",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Official records self-service portal",
+      "url": "https://countyclerkrecords.co.franklin.tx.us/web/user/disclaimer",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official portal disclaimer and search entry.",
+      "access": "See agency for terms",
+      "source": "https://countyclerkrecords.co.franklin.tx.us/web/user/disclaimer",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.franklin.tx.us/page/franklin.district.clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Office guidance; not a direct search.",
+      "access": "See agency for terms",
+      "source": "https://www.co.franklin.tx.us/page/franklin.district.clerk",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Freestone": [
@@ -2703,6 +2740,70 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Official recorded documents search",
+      "url": "https://grayson.tx.publicsearch.us/",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records",
+        "Tax Liens"
+      ],
+      "status": "Recorded document index; fees may apply.",
+      "access": "See agency for terms",
+      "source": "https://grayson.tx.publicsearch.us/",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Historical deed indexes",
+      "url": "https://kofilequicklinks.com/grayson/Default.aspx",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Historical index books.",
+      "access": "See agency for terms",
+      "source": "https://kofilequicklinks.com/grayson/Default.aspx",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Criminal court records guidance",
+      "url": "https://www.co.grayson.tx.us/page/cclk.crmcrtrcds",
+      "recordTypes": [
+        "Criminal Records",
+        "Court Records"
+      ],
+      "status": "County court misdemeanor records guidance and linked judicial search.",
+      "access": "See agency for terms",
+      "source": "https://www.co.grayson.tx.us/page/cclk.crmcrtrcds",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://graysonappraisal.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Appraisal district guidance and linked services.",
+      "access": "See agency for terms",
+      "source": "https://graysonappraisal.org/",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County clerk services",
+      "url": "https://www.co.grayson.tx.us/page/cclk.home",
+      "recordTypes": [
+        "Vital Records",
+        "Land and Deed Records"
+      ],
+      "status": "County clerk office guidance.",
+      "access": "See agency for terms",
+      "source": "https://www.co.grayson.tx.us/page/cclk.home",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Gregg": [
@@ -3123,6 +3224,45 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk records requests",
+      "url": "https://www.huntcounty.net/page/countyclerkrequests",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Marriage Records",
+        "Assumed Business Names"
+      ],
+      "status": "Official guidance and linked record searches.",
+      "access": "See agency for terms",
+      "source": "https://www.huntcounty.net/page/countyclerkrequests",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Historical recorded document indexes",
+      "url": "https://kofilequicklinks.com/hunt/default.aspx",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Historical index search; copies may cost money.",
+      "access": "See agency for terms",
+      "source": "https://kofilequicklinks.com/hunt/default.aspx",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County clerk services",
+      "url": "https://www.huntcounty.net/page/CountyClerk",
+      "recordTypes": [
+        "Vital Records",
+        "Probate Records"
+      ],
+      "status": "Office guidance; access restrictions apply.",
+      "access": "See agency for terms",
+      "source": "https://www.huntcounty.net/page/CountyClerk",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Hutchinson": [
@@ -4910,6 +5050,92 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Property tax search",
+      "url": "https://esearch.co.titus.tx.us/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Direct tax property search.",
+      "access": "See agency for terms",
+      "source": "https://esearch.co.titus.tx.us/",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County court records",
+      "url": "https://www.co.titus.tx.us/page/coclerk.records",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "County clerk case information.",
+      "access": "See agency for terms",
+      "source": "https://www.co.titus.tx.us/page/coclerk.records",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Court docket listing",
+      "url": "https://www.co.titus.tx.us/page/coclerk.dockets",
+      "recordTypes": [
+        "Court Calendar"
+      ],
+      "status": "County clerk docket information.",
+      "access": "See agency for terms",
+      "source": "https://www.co.titus.tx.us/page/coclerk.dockets",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County clerk services",
+      "url": "https://www.co.titus.tx.us/page/coclerk.home",
+      "recordTypes": [
+        "Vital Records",
+        "Land and Deed Records",
+        "Assumed Business Names"
+      ],
+      "status": "Official office guidance and linked services.",
+      "access": "See agency for terms",
+      "source": "https://www.co.titus.tx.us/page/coclerk.home",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://titus-cad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Appraisal agency and linked services.",
+      "access": "See agency for terms",
+      "source": "https://titus-cad.org/",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.titus.tx.us/page/co.districtclerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Office guidance.",
+      "access": "See agency for terms",
+      "source": "https://www.co.titus.tx.us/page/co.districtclerk",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County tax office",
+      "url": "https://www.co.titus.tx.us/page/co.taxoffice",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Official tax office information and linked search.",
+      "access": "See agency for terms",
+      "source": "https://www.co.titus.tx.us/page/co.taxoffice",
+      "reviewStatus": "Official source reviewed; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Tom Green": [
