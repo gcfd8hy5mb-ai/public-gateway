@@ -13,7 +13,9 @@
     "Interactive portal functionality and access fees require manual checks",
     "Local marriage index not confirmed; statewide downloadable index and county certificate ordering available",
     "City of Paris death certificates require separate registrar; city and county published historical date ranges differ",
-    "Remaining municipal coverage not reviewed"
+    "Remaining municipal coverage not reviewed",
+    "Historical DBA FAQ names former vendor; current clerk links Tyler land records portal, but DBA search category not confirmed",
+    "County public information request destination not confirmed; do not substitute city request page"
   ],
   "rules": [
     "One URL may support multiple record types",
@@ -26,6 +28,8 @@
     "County clerk links judicial and land records portals; both returned HTTP 403 to automated reader",
     "County certificate order portal supports birth, death and marriage; fees and eligibility documented",
     "Paris registrar application and fees page confirmed",
-    "State marriage/divorce indexes are downloadable and incomplete"
+    "State marriage/divorce indexes are downloadable and incomplete",
+    "County elections page publishes election documents; commissioners page identifies meeting agendas and minutes",
+    "Current county clerk page links Tyler land records and judicial portals; older DBA guidance is not proof of current vendor support"
   ]
 }
