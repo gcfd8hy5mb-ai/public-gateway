@@ -1554,6 +1554,55 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.bowiecounty.org/1210/County-Clerk",
+      "recordTypes": [
+        "Vital Records",
+        "Probate Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.bowiecounty.org/1210/County-Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Recorded documents self-service",
+      "url": "https://bowiecountytx-web.tylerhost.net/web/user/disclaimer",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://bowiecountytx-web.tylerhost.net/web/user/disclaimer",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk and case search links",
+      "url": "https://newtools.cira.state.tx.us/page/bowie.District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://newtools.cira.state.tx.us/page/bowie.District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://www.bowie-cad.org/results/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.bowie-cad.org/results/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Brazoria": [
@@ -1762,6 +1811,55 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.co.camp.tx.us/page/camp.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Vital Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.camp.tx.us/page/camp.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Public records portal",
+      "url": "https://www.edoctecinc.com/CampPublicRecords",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.edoctecinc.com/CampPublicRecords",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://esearch.campcad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://esearch.campcad.org/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.camp.tx.us/page/camp.District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.camp.tx.us/page/camp.District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Carson": [
@@ -1794,6 +1892,57 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk and record search links",
+      "url": "https://www.co.cass.tx.us/page/cass.county.clerk",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Vital Records",
+        "Court Calendar",
+        "Foreclosure Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.cass.tx.us/page/cass.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://esearch.casscad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://esearch.casscad.org/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal tax information",
+      "url": "https://casscad.org/tax-information/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://casscad.org/tax-information/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Tax assessor-collector",
+      "url": "https://www.co.cass.tx.us/page/cass.County.Assessor.Collector",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.cass.tx.us/page/cass.County.Assessor.Collector",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Castro": [
@@ -4143,6 +4292,43 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk and public court access",
+      "url": "https://newtools.cira.state.tx.us/page/morris.County.Clerk",
+      "recordTypes": [
+        "Court Records",
+        "Foreclosure Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://newtools.cira.state.tx.us/page/morris.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal data and records",
+      "url": "https://morriscad.com/home/DataRecords",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://morriscad.com/home/DataRecords",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County office directory",
+      "url": "https://www.co.morris.tx.us/page/morris.%20Contact%20Numbers%20and%20Office%20Hours",
+      "recordTypes": [
+        "Public Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.morris.tx.us/page/morris.%20Contact%20Numbers%20and%20Office%20Hours",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Motley": [
@@ -4431,6 +4617,55 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk and online records links",
+      "url": "https://www.co.rains.tx.us/page/rains.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Vital Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.rains.tx.us/page/rains.County.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County court dockets",
+      "url": "https://www.co.rains.tx.us/page/rains.Dockets",
+      "recordTypes": [
+        "Court Calendar"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.rains.tx.us/page/rains.Dockets",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk and case portal links",
+      "url": "https://www.co.rains.tx.us/page/rains.District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.co.rains.tx.us/page/rains.District.Clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://rainscad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://rainscad.org/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Randall": [
@@ -5200,6 +5435,69 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.countyofupshur.com/page/county_clerk",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Probate Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.countyofupshur.com/page/county_clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Official documents self-service",
+      "url": "https://upshurcountytx-web.tylerhost.net/web/",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://upshurcountytx-web.tylerhost.net/web/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.countyofupshur.com/page/district_clerk",
+      "recordTypes": [
+        "Court Records",
+        "Civil Court Records",
+        "Family Court Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.countyofupshur.com/page/district_clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Vital records guidance",
+      "url": "https://www.countyofupshur.com/page/birthdeathrecords",
+      "recordTypes": [
+        "Vital Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.countyofupshur.com/page/birthdeathrecords",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://upshur-cad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://upshur-cad.org/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Upton": [
@@ -5264,6 +5562,46 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk and online court record links",
+      "url": "https://www.vanzandtcounty.org/page/vanzandt.county.clerk",
+      "recordTypes": [
+        "Court Records",
+        "Civil Court Records",
+        "Criminal Records",
+        "Probate Records",
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.vanzandtcounty.org/page/vanzandt.county.clerk",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://www.vanzandtcad.org/results/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.vanzandtcad.org/results/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "State Comptroller county tax contacts",
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/vanzandt.php",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/vanzandt.php",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Victoria": [
@@ -5555,6 +5893,55 @@
       "source": "https://www.mywoodcounty.com/page/cc_home",
       "status": "official agency resource identified; automated check pending",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Online county services",
+      "url": "https://www.mywoodcounty.com/page/onlineservices",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.mywoodcounty.com/page/onlineservices",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk and judicial search links",
+      "url": "https://www.mywoodcounty.com/page/distclerk.home",
+      "recordTypes": [
+        "Court Records",
+        "Court Calendar"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.mywoodcounty.com/page/distclerk.home",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://www.woodcad.net/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Official agency guidance and linked services; not necessarily a direct search.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.woodcad.net/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal open records downloads",
+      "url": "https://www.woodcad.net/open-record-downloads/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Online service or published records; coverage and fees may vary.",
+      "access": "See agency for terms and eligibility",
+      "source": "https://www.woodcad.net/open-record-downloads/",
+      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Yoakum": [
