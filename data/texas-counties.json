@@ -2178,6 +2178,42 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://esearch.delta-cad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Direct appraisal search.",
+      "access": "See agency for terms",
+      "source": "https://esearch.delta-cad.org/",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://delta-cad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Agency guidance.",
+      "access": "See agency for terms",
+      "source": "https://delta-cad.org/",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "State Comptroller county contacts",
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/delta.php",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Official agency directory, not a record search.",
+      "access": "See agency for terms",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/delta.php",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "DeWitt": [
@@ -2370,6 +2406,47 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Public court records search",
+      "url": "https://www.co.fannin.tx.us/page/fannin.public.records.search",
+      "recordTypes": [
+        "Court Records",
+        "Civil Court Records",
+        "Criminal Records"
+      ],
+      "status": "County-designated search entry page; coverage varies.",
+      "access": "See agency for terms",
+      "source": "https://www.co.fannin.tx.us/page/fannin.public.records.search",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.co.fannin.tx.us/page/fannin.County.Clerk",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Vital Records",
+        "Probate Records"
+      ],
+      "status": "Office guidance and linked services.",
+      "access": "See agency for terms",
+      "source": "https://www.co.fannin.tx.us/page/fannin.County.Clerk",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.fannin.tx.us/page/fannin.district.clerk",
+      "recordTypes": [
+        "Court Records",
+        "Family Court Records"
+      ],
+      "status": "Written record requests and court guidance.",
+      "access": "See agency for terms",
+      "source": "https://www.co.fannin.tx.us/page/fannin.district.clerk",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Fayette": [
@@ -2946,6 +3023,42 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.hopkinscountytx.org/page/hopkins.District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Office guidance; not a direct case search.",
+      "access": "See agency for terms",
+      "source": "https://www.hopkinscountytx.org/page/hopkins.District.Clerk",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://www.hopkinscad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Appraisal search.",
+      "access": "See agency for terms",
+      "source": "https://www.hopkinscad.org/",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "State Comptroller county contacts",
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/hopkins.php",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Official agency directory, not a record search.",
+      "access": "See agency for terms",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/hopkins.php",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Houston": [
@@ -4242,6 +4355,81 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
       "status": "state directory referral; not a direct local portal",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "County clerk official records search",
+      "url": "https://redriver.tx.publicsearch.us/",
+      "recordTypes": [
+        "Land and Deed Records",
+        "Mortgage Records",
+        "Tax Liens"
+      ],
+      "status": "Public index; document fees may apply.",
+      "access": "See agency for terms",
+      "source": "https://redriver.tx.publicsearch.us/",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://rrcad.org/property-search",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Appraisal search; not a title determination.",
+      "access": "See agency for terms",
+      "source": "https://rrcad.org/property-search",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County clerk",
+      "url": "https://www.co.red-river.tx.us/page/redriver.County.Clerk",
+      "recordTypes": [
+        "Vital Records",
+        "Land and Deed Records"
+      ],
+      "status": "Office guidance and copy requests.",
+      "access": "See agency for terms",
+      "source": "https://www.co.red-river.tx.us/page/redriver.County.Clerk",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "District clerk",
+      "url": "https://www.co.red-river.tx.us/page/redriver.District.Clerk",
+      "recordTypes": [
+        "Court Records"
+      ],
+      "status": "Office guidance; not a direct case search.",
+      "access": "See agency for terms",
+      "source": "https://www.co.red-river.tx.us/page/redriver.District.Clerk",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district",
+      "url": "https://rrcad.org/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "status": "Agency information.",
+      "access": "See agency for terms",
+      "source": "https://rrcad.org/",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "County tax assessor-collector",
+      "url": "https://www.co.red-river.tx.us/page/redriver.County.Assessor.Collector",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "status": "Agency guidance.",
+      "access": "See agency for terms",
+      "source": "https://www.co.red-river.tx.us/page/redriver.County.Assessor.Collector",
+      "reviewStatus": "Official source identified; interactive functionality not tested",
+      "reviewedOn": "2026-11-26"
     }
   ],
   "Reeves": [
