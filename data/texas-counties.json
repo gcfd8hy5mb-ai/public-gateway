@@ -787,6 +787,21 @@
       "label": "State Comptroller county contacts",
       "status": "pending",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "El Paso — Advanced property search",
+      "url": "https://epcad.org/Search/Advanced",
+      "source": "https://epcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "El Paso County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
     }
   ],
   "Lamar": [
@@ -2118,6 +2133,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Bell — Consolidated property search",
+      "url": "https://belltx-search.gsacorp.io/",
+      "source": "https://bellcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bell County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
+    },
+    {
+      "label": "Bell — Interactive GIS map",
+      "url": "https://belltx-search.gsacorp.io/map",
+      "source": "https://bellcad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Bell County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
     }
   ],
   "Blanco": [
@@ -4730,6 +4774,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Ector — Property search",
+      "url": "https://search.ectorcad.org/",
+      "source": "https://search.ectorcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Ector County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
     }
   ],
   "Edwards": [
@@ -9676,6 +9735,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "McLennan — County property tax search",
+      "url": "https://actweb.acttax.com/act_webdev/mclennan/index.jsp",
+      "source": "https://actweb.acttax.com/act_webdev/mclennan/index.jsp",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "McLennan County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
     }
   ],
   "McMullen": [
@@ -9858,6 +9931,63 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Midland — Property search",
+      "url": "https://www.southwestdatasolution.com/webindex.aspx?dbkey=MIDLANDCAD",
+      "source": "https://midcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Midland County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
+    },
+    {
+      "label": "Midland — Tax payment portal",
+      "url": "https://midlandcad.propertytaxpayments.net/",
+      "source": "https://midcad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Midland County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
+    },
+    {
+      "label": "Midland — Interactive parcel map",
+      "url": "https://gis.bisclient.com/midlandcad/",
+      "source": "https://midcad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Midland County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
+    },
+    {
+      "label": "Midland — Taxpayer appeals",
+      "url": "https://midlandcad.protestdatabase.com/search/Welcome",
+      "source": "https://midcad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Midland County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
     }
   ],
   "Milam": [
@@ -13036,6 +13166,22 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Taylor — Property search and tax payment entry",
+      "url": "https://esearch.taylor-cad.org/",
+      "source": "https://esearch.taylor-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Taylor County",
+      "status": "Published service destination identified; individual queries, map interactions and transactions not tested.",
+      "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Use official service directly; see agency terms"
     }
   ],
   "Terrell": [
