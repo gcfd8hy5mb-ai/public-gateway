@@ -1,0 +1,906 @@
+{
+  "county": "Lamar",
+  "state": "Texas",
+  "complete": false,
+  "asOf": "2026-11-25",
+  "note": "Mappings are inventory evidence, not proof of access or completeness. Missing categories are not evidence of unavailability.",
+  "municipalResearch": {
+    "Paris": "Partial; archives and clerk pages reviewed",
+    "Blossom": "Pending",
+    "Deport": "Pending; cross-county scope",
+    "Reno": "Pending",
+    "Roxton": "Pending",
+    "SunValley": "Pending"
+  },
+  "records": [
+    {
+      "type": "Court Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/District.Clerk",
+          "label": "District clerk — court records and civil fees",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://card.txcourts.gov/ajrdata.aspx?ajr=10&ct=57&st=",
+          "label": "Lamar area municipal court directory",
+          "tier": 4,
+          "jurisdiction": "Regional directory",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Criminal Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Arrest Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.paristexas.gov/593/Records-Division",
+          "label": "Paris police records requests",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Inmate Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Warrant Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/sheriff",
+          "label": "Lamar County sheriff office",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Civil Court Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/District.Clerk",
+          "label": "District clerk — court records and civil fees",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Bankruptcy Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Probate Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Family Court Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Vital Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/County.Clerk",
+          "label": "County clerk — recorded instruments and vital records",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.lamarcountytx.gov/page/FormsCC",
+          "label": "County clerk forms and marriage guidance",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://lamartx.permitium.com/rod",
+          "label": "Lamar County certified vital records orders",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://paristexas.gov/213/Fees-Applications",
+          "label": "Paris birth and death certificate applications",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.dshs.texas.gov/vital-statistics/marriage-divorce-records/marriage-divorce-indexes",
+          "label": "Texas marriage and divorce public indexes",
+          "tier": 2,
+          "jurisdiction": "Texas statewide",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Traffic Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.paristexas.gov/100/Fines-Payment-Methods",
+          "label": "Paris municipal court citation services",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://card.txcourts.gov/ajrdata.aspx?ajr=10&ct=57&st=",
+          "label": "Lamar area municipal court directory",
+          "tier": 4,
+          "jurisdiction": "Regional directory",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Sex Offender Registries",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Missing Persons",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Court Calendars",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Jail Bond Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal-txlamar.tylertech.cloud/PublicAccess/default.aspx",
+          "label": "Lamar County Judicial Records Search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Birth Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://lamartx.permitium.com/rod",
+          "label": "Lamar County certified vital records orders",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://paristexas.gov/213/Fees-Applications",
+          "label": "Paris birth and death certificate applications",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Death Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://lamartx.permitium.com/rod",
+          "label": "Lamar County certified vital records orders",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://paristexas.gov/213/Fees-Applications",
+          "label": "Paris birth and death certificate applications",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Marriage Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://lamartx.permitium.com/rod",
+          "label": "Lamar County certified vital records orders",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.dshs.texas.gov/vital-statistics/marriage-divorce-records/marriage-divorce-indexes",
+          "label": "Texas marriage and divorce public indexes",
+          "tier": 2,
+          "jurisdiction": "Texas statewide",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Divorce Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.dshs.texas.gov/vital-statistics/marriage-divorce-records/marriage-divorce-indexes",
+          "label": "Texas marriage and divorce public indexes",
+          "tier": 2,
+          "jurisdiction": "Texas statewide",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Property Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://esearch.lamarcad.org/",
+          "label": "Lamar CAD property search and tax payment",
+          "tier": 1,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Property Ownership",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://esearch.lamarcad.org/",
+          "label": "Lamar CAD property search and tax payment",
+          "tier": 1,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Land and Deed Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/County.Clerk",
+          "label": "County clerk — recorded instruments and vital records",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://lamarcountytx-web.tylerhost.net/web",
+          "label": "Lamar County land records search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/6737/2024/2024%20Fee%20Schedule.pdf",
+          "label": "County clerk recorded document fee schedule",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Property Tax Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/County.Assessor.Collector",
+          "label": "County tax assessor-collector",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://esearch.lamarcad.org/",
+          "label": "Lamar CAD property search and tax payment",
+          "tier": 1,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Foreclosure Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/Foreclosure.Sales",
+          "label": "Lamar County foreclosure notices",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Tax Liens",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/6737/2024/2024%20Fee%20Schedule.pdf",
+          "label": "County clerk recorded document fee schedule",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Mortgage Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/County.Clerk",
+          "label": "County clerk — recorded instruments and vital records",
+          "tier": 4,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://lamarcountytx-web.tylerhost.net/web",
+          "label": "Lamar County land records search",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Building Permits",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://public.mygov.us/paris_texas",
+          "label": "Paris permits, inspections and municipal records portal",
+          "tier": 2,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Zoning Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.paristexas.gov/548/Planning-Zoning",
+          "label": "Paris planning and zoning",
+          "tier": 2,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "UCC Filings",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Unclaimed Property",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Public Auctions",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://lamarcad.org/tax-sales/",
+          "label": "Lamar CAD tax sales",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Property Appraisals",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://esearch.lamarcad.org/",
+          "label": "Lamar CAD property search and tax payment",
+          "tier": 1,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Property Maps",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://gis.bisclient.com/LAMARCAD/",
+          "label": "Lamar CAD interactive parcel map",
+          "tier": 1,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://public.mygov.us/paris_texas",
+          "label": "Paris permits, inspections and municipal records portal",
+          "tier": 2,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Appraisal Protests",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://eprotest.lamarcad.org/",
+          "label": "Lamar CAD online protest",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Property Tax Forms",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://portal.lamarcad.org/",
+          "label": "Lamar CAD online forms",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Appraisal Agent Services",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://agentappeals.lamarcad.org/",
+          "label": "Lamar CAD agent portal",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Business Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Business Registrations",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Assumed Business Names",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/FormsCC",
+          "label": "County clerk forms and marriage guidance",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/6755/docs/County%20Clerk/Frequently%20Asked%20Questions%20-%20DBA.pdf",
+          "label": "County clerk assumed-name search guidance",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/6737/2024/2024%20Fee%20Schedule.pdf",
+          "label": "County clerk recorded document fee schedule",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Professional Licenses",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Business Permits",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://public.mygov.us/paris_texas",
+          "label": "Paris permits, inspections and municipal records portal",
+          "tier": 2,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Corporate Filings",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Trademarks",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Patents",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Government Contracts",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Nonprofit Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Regulatory Violations",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Business Inspections",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://public.mygov.us/paris_texas",
+          "label": "Paris permits, inspections and municipal records portal",
+          "tier": 2,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Government Databases",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Election Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/Elections",
+          "label": "County election documents and results",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Campaign Finance",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Lobbyist Registrations",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Government Spending",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Public Salaries",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Government Grants",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Public Meeting Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/Commissioners.Court",
+          "label": "Commissioners Court agendas and minutes",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.paristexas.gov/Archive.aspx",
+          "label": "Paris searchable municipal archives",
+          "tier": 1,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.paristexas.gov/205/City-Clerk",
+          "label": "Paris city clerk records and ordinances",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Legislative Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.paristexas.gov/205/City-Clerk",
+          "label": "Paris city clerk records and ordinances",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Government Audits",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/Audit",
+          "label": "Lamar County audit reports",
+          "tier": 2,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Ethics Disclosures",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Public Information Requests",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.paristexas.gov/206/Texas-Public-Information-Act",
+          "label": "Paris public information requests",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.paristexas.gov/593/Records-Division",
+          "label": "Paris police records requests",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        },
+        {
+          "url": "https://www.paristexas.gov/205/City-Clerk",
+          "label": "Paris city clerk records and ordinances",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Aircraft Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Maritime Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Transportation Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Accident Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.paristexas.gov/593/Records-Division",
+          "label": "Paris police records requests",
+          "tier": 3,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Environmental Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Oil and Gas Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Water Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Mining Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Safety Violations",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Product Recalls",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Research Tools",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Military Records",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.lamarcountytx.gov/page/FormsCC",
+          "label": "County clerk forms and marriage guidance",
+          "tier": 3,
+          "jurisdiction": "Lamar County",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    },
+    {
+      "type": "Genealogy Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Historical Census Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Cemetery Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Immigration Archives",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Historical Newspapers",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Educational Records",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Historical Maps",
+      "status": "Research pending",
+      "destinations": []
+    },
+    {
+      "type": "Government Archives",
+      "status": "Destination identified; capability verification pending",
+      "destinations": [
+        {
+          "url": "https://www.paristexas.gov/Archive.aspx",
+          "label": "Paris searchable municipal archives",
+          "tier": 1,
+          "jurisdiction": "City of Paris",
+          "verification": "Endpoint and capability audit pending"
+        }
+      ]
+    }
+  ]
+}
