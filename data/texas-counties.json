@@ -2458,6 +2458,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Brazoria — Property search",
+      "url": "https://esearch.brazoriacad.org/",
+      "source": "https://brazoriacad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Brazoria County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Brazoria — Online appraisal protest",
+      "url": "https://eprotest.brazoriacad.org/",
+      "source": "https://brazoriacad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Brazoria County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Brazoria — Truth in taxation",
+      "url": "https://brazoria.countytaxrates.com/",
+      "source": "https://brazoriacad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Brazoria County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Brazos": [
@@ -3895,6 +3938,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Comal — Property search",
+      "url": "https://esearch.comalad.org/",
+      "source": "https://comalad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Comal County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Comal — Taxpayer portal",
+      "url": "https://portal.comalad.org/",
+      "source": "https://comalad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Comal County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Comanche": [
@@ -4941,6 +5013,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Ellis — Current and delinquent property tax records",
+      "url": "https://actweb.acttax.com/ellis/ellis/index.jsp",
+      "source": "https://www.elliscad.com/property-detail/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Ellis County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Erath": [
@@ -5595,6 +5681,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Galveston — Property search",
+      "url": "https://esearch.galvestoncad.org/",
+      "source": "https://galvestoncad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Galveston County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Galveston — Online forms and taxpayer portal",
+      "url": "https://portal.galvestoncad.org/",
+      "source": "https://galvestoncad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Galveston County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Galveston — Truth in taxation",
+      "url": "https://galveston.countytaxrates.com/",
+      "source": "https://galvestoncad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Galveston County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Garza": [
@@ -6181,6 +6310,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Guadalupe — Property search",
+      "url": "https://esearch.guadalupead.org/",
+      "source": "https://guadalupead.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Guadalupe County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Guadalupe — Online appraisal protest",
+      "url": "https://eprotest.guadalupead.org/",
+      "source": "https://guadalupead.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Guadalupe County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Guadalupe — Truth in taxation",
+      "url": "https://guadalupe.countytaxrates.com/",
+      "source": "https://guadalupead.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Guadalupe County",
+      "status": "Official district publishes this destination; interactive functionality not tested.",
+      "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Hale": [
