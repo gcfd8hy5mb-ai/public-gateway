@@ -10,7 +10,11 @@
       "url": "https://www.dallascad.org/",
       "label": "Appraisal district",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ]
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/dallas.php",
@@ -220,7 +224,11 @@
       "url": "https://hcad.org/",
       "label": "Appraisal district",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ]
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/harris.php",
@@ -518,7 +526,11 @@
       "url": "https://www.dentoncad.com/",
       "label": "Appraisal district",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ]
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/denton.php",
@@ -619,7 +631,11 @@
       "url": "https://www.fbcad.org/",
       "label": "Appraisal district",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ]
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/fortbend.php",
@@ -639,7 +655,11 @@
       "url": "https://epcad.org/",
       "label": "Appraisal district",
       "status": "pending",
-      "reviewStatus": "not independently reviewed"
+      "reviewStatus": "not independently reviewed",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ]
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/elpaso.php",
@@ -667,7 +687,11 @@
       "destinationTier": 4,
       "jurisdiction": "Lamar County",
       "reviewedOn": "2026-11-25",
-      "source": "https://lamarcad.org/"
+      "source": "https://lamarcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ]
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
@@ -3339,6 +3363,20 @@
       "source": "https://www.co.dawson.tx.us/page/dawson.district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Dawson appraisal district — agency website",
+      "url": "https://www.dawsoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Dawson County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Deaf Smith": [
@@ -3367,6 +3405,20 @@
       "source": "https://www.co.deaf-smith.tx.us/page/deafsmith.County.Clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Deaf Smith appraisal district — agency website",
+      "url": "https://www.deafsmithcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Deaf Smith County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Delta": [
@@ -3465,6 +3517,20 @@
       "source": "https://vrhc.tamuv.edu/collections/county-records",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "DeWitt appraisal district — agency website",
+      "url": "https://www.dewittcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "DeWitt County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Dickens": [
@@ -3493,6 +3559,20 @@
       "source": "https://www.co.dickens.tx.us/page/dickens.county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Dickens appraisal district — agency website",
+      "url": "https://www.dickenscad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Dickens County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Dimmit": [
@@ -3521,6 +3601,20 @@
       "source": "https://www.tsl.texas.gov/arc/local/dimmit.html",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Dimmit appraisal district — agency website",
+      "url": "https://www.dimmit-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Dimmit County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Donley": [
@@ -3549,6 +3643,20 @@
       "source": "https://www.co.donley.tx.us/page/County.Clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Donley appraisal district — agency website",
+      "url": "https://www.donleycad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Donley County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Duval": [
@@ -3577,6 +3685,20 @@
       "source": "https://www.co.duval.tx.us/page/duval.county-clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Duval appraisal district — agency website",
+      "url": "https://www.duvalcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Duval County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Eastland": [
@@ -3605,6 +3727,20 @@
       "source": "https://www.eastlandcounty.gov/1218/County-Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Eastland appraisal district — agency website",
+      "url": "https://www.eastlandcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Eastland County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Ector": [
@@ -3633,6 +3769,20 @@
       "source": "https://newtools.cira.state.tx.us/page/ector.County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Ector appraisal district — agency website",
+      "url": "https://www.ectorcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Ector County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Edwards": [
@@ -3661,6 +3811,20 @@
       "source": "https://www.co.edwards.tx.us/page/contact",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Edwards appraisal district — agency website",
+      "url": "https://www.edwardscad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Edwards County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Ellis": [
@@ -3714,6 +3878,20 @@
       "source": "https://elliscountytx.gov/79/District-Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Ellis appraisal district — agency website",
+      "url": "https://www.elliscad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Ellis County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Erath": [
@@ -3755,6 +3933,20 @@
       "source": "https://www.co.erath.tx.us/156/County-Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Erath appraisal district — agency website",
+      "url": "https://www.erath-cad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Erath County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Falls": [
@@ -3820,6 +4012,20 @@
       "source": "https://www.co.falls.tx.us/page/county.assessor.collector",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Falls appraisal district — agency website",
+      "url": "https://www.fallscad.net/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Falls County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Fannin": [
@@ -3885,6 +4091,20 @@
       "source": "https://www.co.fannin.tx.us/page/fannin.district.clerk",
       "reviewStatus": "Official source identified; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Fannin appraisal district — agency website",
+      "url": "https://www.fannincad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Fannin County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Fayette": [
@@ -3914,6 +4134,20 @@
       "source": "https://www.co.fayette.tx.us/page/fayette.county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Fayette appraisal district — agency website",
+      "url": "https://www.fayettecad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Fayette County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Fisher": [
@@ -3942,6 +4176,20 @@
       "source": "https://www.fishercounty.org/page/fisher.County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Fisher appraisal district — agency website",
+      "url": "https://www.fishercad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Fisher County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Floyd": [
@@ -3998,6 +4246,20 @@
       "source": "https://www.foardcounty.texas.gov/page/County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Foard appraisal district — agency website",
+      "url": "https://www.foard-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Foard County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Franklin": [
@@ -4051,6 +4313,20 @@
       "source": "https://www.co.franklin.tx.us/page/franklin.district.clerk",
       "reviewStatus": "Official source reviewed; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Franklin appraisal district — agency website",
+      "url": "https://www.franklin-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Franklin County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Freestone": [
@@ -4143,6 +4419,20 @@
       "source": "https://www.co.frio.tx.us/page/co.county-clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Frio appraisal district — agency website",
+      "url": "https://www.friocad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Frio County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Gaines": [
@@ -4186,6 +4476,20 @@
       "source": "https://www.co.gaines.tx.us/page/gaines.district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Gaines appraisal district — agency website",
+      "url": "https://www.gainescad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Gaines County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Galveston": [
@@ -4214,6 +4518,20 @@
       "source": "https://www.galvestoncountytx.gov/our-county/county-clerk/records-search",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Galveston appraisal district — agency website",
+      "url": "https://www.galvestoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Galveston County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Garza": [
@@ -4242,6 +4560,20 @@
       "source": "https://www.depts.ttu.edu/swco/reference/county-records/",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Garza appraisal district — agency website",
+      "url": "https://www.garzacad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Garza County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Gillespie": [
@@ -4306,6 +4638,20 @@
       "source": "https://www.gillespiecounty.gov/1200/District-Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Gillespie appraisal district — agency website",
+      "url": "https://www.gillespiecad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Gillespie County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Glasscock": [
@@ -4334,6 +4680,20 @@
       "source": "https://www.co.glasscock.tx.us/page/County.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Glasscock appraisal district — agency website",
+      "url": "https://www.glasscockcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Glasscock County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Goliad": [
@@ -4374,6 +4734,20 @@
       "source": "https://www.co.goliad.tx.us/page/goliad.county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Goliad appraisal district — agency website",
+      "url": "https://www.goliadcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Goliad County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Gonzales": [
@@ -4415,6 +4789,20 @@
       "source": "https://vrhc.tamuv.edu/collections/county-records",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Gonzales appraisal district — agency website",
+      "url": "https://www.gonzalescad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Gonzales County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Gray": [
@@ -4443,6 +4831,20 @@
       "source": "https://www.co.gray.tx.us/page/gray.county.clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Gray appraisal district — agency website",
+      "url": "https://www.graycad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Gray County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Grayson": [
@@ -4618,6 +5020,20 @@
       "source": "https://grimescountytexas.gov/index.asp?DE=B4B0B688-9818-49CA-B31D-2FA3CBA26510&SEC=09D7E9A3-4C52-4DDE-9D8A-E8354FB80BE9",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Grimes appraisal district — agency website",
+      "url": "https://www.grimescad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Grimes County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Guadalupe": [
@@ -4658,6 +5074,20 @@
       "source": "https://www.guadalupetx.gov/page/coclerk.home",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Guadalupe appraisal district — agency website",
+      "url": "https://www.guadalupead.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Guadalupe County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hale": [
@@ -4686,6 +5116,20 @@
       "source": "https://haletx.permitium.com/rod",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hale appraisal district — agency website",
+      "url": "https://www.halecad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hale County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hall": [
@@ -4714,6 +5158,20 @@
       "source": "https://www.co.hall.tx.us/page/hall.District.County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hall appraisal district — agency website",
+      "url": "https://www.hallcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hall County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hamilton": [
@@ -4754,6 +5212,20 @@
       "source": "https://newtools.cira.state.tx.us/page/hamilton.dclerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hamilton appraisal district — agency website",
+      "url": "https://www.hamiltoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hamilton County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hansford": [
@@ -4782,6 +5254,20 @@
       "source": "https://www.co.hansford.tx.us/page/county.clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hansford appraisal district — agency website",
+      "url": "https://www.hansfordcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hansford County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hardeman": [
@@ -4810,6 +5296,20 @@
       "source": "https://www.co.hardeman.tx.us/page/hardeman.County.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hardeman appraisal district — agency website",
+      "url": "https://www.hardemancad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hardeman County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hardin": [
@@ -4940,6 +5440,20 @@
       "source": "https://harrisoncad.net/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Harrison appraisal district — agency website",
+      "url": "https://www.harrisoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Harrison County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hartley": [
@@ -4980,6 +5494,20 @@
       "source": "https://www.co.hartley.tx.us/page/District.Clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hartley appraisal district — agency website",
+      "url": "https://www.hartleycad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hartley County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Haskell": [
@@ -5008,6 +5536,20 @@
       "source": "https://www.haskellcountytx.gov/page/haskell.county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Haskell appraisal district — agency website",
+      "url": "https://www.haskellcad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Haskell County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hays": [
@@ -5061,6 +5603,20 @@
       "source": "https://www.hayscountytx.gov/434/Legal-Research---Online",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hays appraisal district — agency website",
+      "url": "https://www.hayscad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hays County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hemphill": [
@@ -5089,6 +5645,20 @@
       "source": "https://www.co.hemphill.tx.us/page/hemphill.county.clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hemphill appraisal district — agency website",
+      "url": "https://www.hemphillcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hemphill County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Henderson": [
@@ -5142,6 +5712,20 @@
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/henderson.php",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Henderson appraisal district — agency website",
+      "url": "https://www.henderson-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Henderson County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hidalgo": [
@@ -5182,6 +5766,20 @@
       "source": "https://www.hidalgocounty.us/2120/Law-Justice",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hidalgo appraisal district — agency website",
+      "url": "https://www.hidalgoad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hidalgo County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hill": [
@@ -5247,6 +5845,20 @@
       "source": "https://www.co.hill.tx.us/page/hill.County.Assessor.Collector",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hill appraisal district — agency website",
+      "url": "https://www.hillcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hill County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hockley": [
@@ -5287,6 +5899,20 @@
       "source": "https://www.co.hockley.tx.us/page/County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hockley appraisal district — agency website",
+      "url": "https://www.hockleycad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hockley County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hood": [
@@ -5315,6 +5941,20 @@
       "source": "https://kofilequicklinks.com/Hood/",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hood appraisal district — agency website",
+      "url": "https://www.hood-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hood County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hopkins": [
@@ -5370,6 +6010,20 @@
       "reviewedOn": "2026-11-26",
       "destinationTier": 4,
       "jurisdiction": "Hopkins County"
+    },
+    {
+      "label": "Hopkins appraisal district — agency website",
+      "url": "https://www.hopkins-cad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hopkins County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Houston": [
@@ -5435,6 +6089,20 @@
       "source": "https://www.co.houston.tx.us/page/houston.County.Assessor.Collector",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Houston appraisal district — agency website",
+      "url": "https://www.houstoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Houston County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Howard": [
@@ -5487,6 +6155,20 @@
       "source": "https://www.co.howard.tx.us/1236/District-Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Howard appraisal district — agency website",
+      "url": "https://www.howardcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Howard County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hudspeth": [
@@ -5515,6 +6197,20 @@
       "source": "https://www.co.hudspeth.tx.us/page/County.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hudspeth appraisal district — agency website",
+      "url": "https://www.hudspethcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hudspeth County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hunt": [
@@ -5570,6 +6266,20 @@
       "source": "https://www.huntcounty.net/page/CountyClerk",
       "reviewStatus": "Official source reviewed; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hunt appraisal district — agency website",
+      "url": "https://www.hunt-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hunt County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Hutchinson": [
@@ -5598,6 +6308,20 @@
       "source": "https://newtools.cira.state.tx.us/page/hutchinson.County.Clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hutchinson appraisal district — agency website",
+      "url": "https://www.hutchinsoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Hutchinson County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Irion": [
@@ -5638,6 +6362,20 @@
       "source": "https://newtools.cira.state.tx.us/page/irion.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Irion appraisal district — agency website",
+      "url": "https://www.irioncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Irion County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jack": [
@@ -5666,6 +6404,20 @@
       "source": "https://www.dshs.texas.gov/vital-statistics/order-records-locally/local-vital-record-offices",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jack appraisal district — agency website",
+      "url": "https://www.jackcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jack County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jackson": [
@@ -5706,6 +6458,20 @@
       "source": "https://www.co.jackson.tx.us/page/Open.Records.Request",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jackson appraisal district — agency website",
+      "url": "https://www.jacksoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jackson County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jasper": [
@@ -5811,6 +6577,20 @@
       "source": "https://www.jeffdaviscounty.texas.gov/page/jeffdavis.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jeff Davis appraisal district — agency website",
+      "url": "https://www.jeffdaviscad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jeff Davis County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jefferson": [
@@ -5839,6 +6619,20 @@
       "source": "https://jefferson.tx.publicsearch.us/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jefferson appraisal district — agency website",
+      "url": "https://www.jcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jefferson County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jim Hogg": [
@@ -5879,6 +6673,20 @@
       "source": "https://www.co.jim-hogg.tx.us/page/jim-hogg.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jim Hogg appraisal district — agency website",
+      "url": "https://www.jimhogg-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jim Hogg County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jim Wells": [
@@ -5931,6 +6739,20 @@
       "source": "https://www.co.jim-wells.tx.us/page/co.district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jim Wells appraisal district — agency website",
+      "url": "https://www.jimwellscad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jim Wells County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Johnson": [
@@ -5959,6 +6781,20 @@
       "source": "https://www.johnsoncountytx.org/government/county-clerk/online-records",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Johnson appraisal district — agency website",
+      "url": "https://www.johnsoncad.net/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Johnson County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Jones": [
@@ -5987,6 +6823,20 @@
       "source": "https://www.co.jones.tx.us/page/jones.county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jones appraisal district — agency website",
+      "url": "https://www.jonescad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Jones County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Karnes": [
@@ -6015,6 +6865,20 @@
       "source": "https://www.co.karnes.tx.us/page/karnes.county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Karnes appraisal district — agency website",
+      "url": "https://www.karnescad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Karnes County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kaufman": [
@@ -6043,6 +6907,20 @@
       "source": "https://kaufmancountytx-web.tylerhost.net/web/user/disclaimer",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kaufman appraisal district — agency website",
+      "url": "https://www.kaufman-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kaufman County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kendall": [
@@ -6095,6 +6973,20 @@
       "source": "https://www.co.kendall.tx.us/175/County-Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kendall appraisal district — agency website",
+      "url": "https://www.kendallad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kendall County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kenedy": [
@@ -6123,6 +7015,20 @@
       "source": "https://www.kenedycountytx.gov/page/kenedy.County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kenedy appraisal district — agency website",
+      "url": "https://www.kenedycad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kenedy County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kent": [
@@ -6151,6 +7057,20 @@
       "source": "https://www.dshs.texas.gov/vital-statistics/order-records-locally/local-vital-record-offices-10",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kent appraisal district — agency website",
+      "url": "https://www.kentcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kent County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kerr": [
@@ -6192,6 +7112,20 @@
       "source": "https://kerrcountytx.gov/kerr-county-all-departments/kerr-county-public-records",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kerr appraisal district — agency website",
+      "url": "https://www.kerrcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kerr County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kimble": [
@@ -6232,6 +7166,20 @@
       "source": "https://www.co.kimble.tx.us/page/district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kimble appraisal district — agency website",
+      "url": "https://www.kimblecad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kimble County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "King": [
@@ -6272,6 +7220,20 @@
       "source": "https://www.co.king.tx.us/page/king.district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "King appraisal district — agency website",
+      "url": "https://www.kingcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "King County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kinney": [
@@ -6324,6 +7286,20 @@
       "source": "https://kofilequicklinks.com/kinney/",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kinney appraisal district — agency website",
+      "url": "https://www.kinneycad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kinney County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Kleberg": [
@@ -6352,6 +7328,20 @@
       "source": "https://www.co.kleberg.tx.us/page/kleberg.County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Kleberg appraisal district — agency website",
+      "url": "https://www.klebergcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Kleberg County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Knox": [
@@ -6380,6 +7370,20 @@
       "source": "https://www.knoxcountytexas.org/page/knox.county.district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Knox appraisal district — agency website",
+      "url": "https://www.knoxcad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Knox County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "La Salle": [
@@ -6420,6 +7424,20 @@
       "source": "https://www.co.la-salle.tx.us/index.php/offices/county-district-clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "La Salle appraisal district — agency website",
+      "url": "https://www.lasallecad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "La Salle County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Lamb": [
@@ -6448,6 +7466,20 @@
       "source": "https://www.co.lamb.tx.us/page/county.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Lamb appraisal district — agency website",
+      "url": "https://www.lambcad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Lamb County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Lampasas": [
@@ -6500,6 +7532,20 @@
       "source": "https://mclennan.edoctec.com/LampasasPublicRecords",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Lampasas appraisal district — agency website",
+      "url": "https://www.lampasascad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Lampasas County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Lavaca": [
@@ -6540,6 +7586,20 @@
       "source": "https://vrhc.tamuv.edu/collections/county-records",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Lavaca appraisal district — agency website",
+      "url": "https://www.lavacacad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Lavaca County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Lee": [
@@ -6580,6 +7640,20 @@
       "source": "https://www.co.lee.tx.us/page/lee.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Lee appraisal district — agency website",
+      "url": "https://www.lee-cad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Lee County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Leon": [
@@ -6620,6 +7694,20 @@
       "source": "https://www.co.leon.tx.us/page/leon.county.clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Leon appraisal district — agency website",
+      "url": "https://www.leoncad.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Leon County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Liberty": [
@@ -6684,6 +7772,20 @@
       "source": "https://www.libertycountytx.gov/page/County.Clerk.records.vitalRecords",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Liberty appraisal district — agency website",
+      "url": "https://www.libertycad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Liberty County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Limestone": [
@@ -6724,6 +7826,20 @@
       "source": "https://www.limestonetexas-tax.com/Advanced-Search",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Limestone appraisal district — agency website",
+      "url": "https://www.limestonecad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Limestone County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Lipscomb": [
@@ -6752,6 +7868,20 @@
       "source": "https://www.co.lipscomb.tx.us/page/lipscomb.County.Clerk",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Lipscomb appraisal district — agency website",
+      "url": "https://www.lipscombcad.com/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Lipscomb County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Live Oak": [
@@ -6804,6 +7934,20 @@
       "source": "https://www.co.live-oak.tx.us/page/liveoak.district.clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Live Oak appraisal district — agency website",
+      "url": "https://www.liveoakappraisal.org/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Live Oak County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Llano": [
@@ -6856,6 +8000,20 @@
       "source": "https://www.llanocounty.gov/page/County.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Llano appraisal district — agency website",
+      "url": "https://www.llanocad.net/",
+      "source": "https://taad.org/resources/texas-cad-websites/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Llano County",
+      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
+      "reviewStatus": "Association directory link identified; endpoint not independently tested",
+      "access": "See agency for terms"
     }
   ],
   "Loving": [
@@ -7994,6 +9152,58 @@
       "source": "https://nueces.tx.publicsearch.us/",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Nueces CAD property search",
+      "url": "https://esearch.nuecescad.net/",
+      "source": "https://nuecescad.net/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Nueces County",
+      "status": "Official agency-linked service; interactive functionality not tested.",
+      "reviewStatus": "Official agency link identified; endpoint audit pending",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Nueces CAD online appeals",
+      "url": "https://eprotest.nuecescad.net/",
+      "source": "https://nuecescad.net/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Nueces County",
+      "status": "Official agency-linked service; interactive functionality not tested.",
+      "reviewStatus": "Official agency link identified; endpoint audit pending",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Nueces CAD agent portal",
+      "url": "https://agentappeals.nuecescad.net/",
+      "source": "https://nuecescad.net/",
+      "recordTypes": [
+        "Appraisal Agent Services"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Nueces County",
+      "status": "Official agency-linked service; interactive functionality not tested.",
+      "reviewStatus": "Official agency link identified; endpoint audit pending",
+      "access": "See agency for terms"
+    },
+    {
+      "label": "Nueces truth in taxation",
+      "url": "https://nueces.countytaxrates.com/",
+      "source": "https://nuecescad.net/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Nueces County",
+      "status": "Official agency-linked service; interactive functionality not tested.",
+      "reviewStatus": "Official agency link identified; endpoint audit pending",
+      "access": "See agency for terms"
     }
   ],
   "Ochiltree": [
