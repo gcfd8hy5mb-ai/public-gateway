@@ -1024,6 +1024,64 @@
       "access": "Public downloads.",
       "reviewStatus": "Official source and destination reviewed; transaction not tested",
       "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Commissioners Court agendas and minutes",
+      "url": "https://www.lamarcountytx.gov/page/Commissioners.Court",
+      "recordTypes": [
+        "Public Meeting Records"
+      ],
+      "destinationTier": 2,
+      "status": "Official meeting information and agenda/minutes access.",
+      "source": "https://www.lamarcountytx.gov/page/Commissioners.Court",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source identified; live search not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current terms"
+    },
+    {
+      "label": "County election documents and results",
+      "url": "https://www.lamarcountytx.gov/page/Elections",
+      "recordTypes": [
+        "Election Records"
+      ],
+      "destinationTier": 2,
+      "status": "Official election notices, results and documents.",
+      "source": "https://www.lamarcountytx.gov/page/Elections",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source identified; live search not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current terms"
+    },
+    {
+      "label": "County clerk assumed-name search guidance",
+      "url": "https://newtools.cira.state.tx.us/upload/page/6755/docs/County%20Clerk/Frequently%20Asked%20Questions%20-%20DBA.pdf",
+      "recordTypes": [
+        "Assumed Business Names"
+      ],
+      "destinationTier": 3,
+      "status": "Older county FAQ documents written and online search options; legacy vendor and fees require reconfirmation.",
+      "source": "https://newtools.cira.state.tx.us/upload/page/6755/docs/County%20Clerk/Frequently%20Asked%20Questions%20-%20DBA.pdf",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source identified; live search not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current terms"
+    },
+    {
+      "label": "County clerk recorded document fee schedule",
+      "url": "https://newtools.cira.state.tx.us/upload/page/6737/2024/2024%20Fee%20Schedule.pdf",
+      "recordTypes": [
+        "Assumed Business Names",
+        "Land and Deed Records",
+        "Tax Liens"
+      ],
+      "destinationTier": 3,
+      "status": "Published 2024 filing fee schedule; contact clerk to confirm current fees and search availability.",
+      "source": "https://newtools.cira.state.tx.us/upload/page/6737/2024/2024%20Fee%20Schedule.pdf",
+      "jurisdiction": "Lamar County",
+      "reviewStatus": "Official source identified; live search not tested",
+      "reviewedOn": "2026-11-25",
+      "access": "See agency for current terms"
     }
   ],
   "Anderson": [
