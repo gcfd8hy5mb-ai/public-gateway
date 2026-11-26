@@ -671,11 +671,18 @@
     },
     {
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
-      "label": "State Comptroller county contacts",
-      "status": "pending",
-      "reviewStatus": "not independently reviewed",
+      "label": "Texas Comptroller — Lamar County appraisal and tax contacts",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
       "destinationTier": 4,
-      "jurisdiction": "Lamar County"
+      "jurisdiction": "Lamar County",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "label": "County clerk — recorded instruments and vital records",
@@ -3402,16 +3409,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "State Comptroller county contacts",
+      "label": "Texas Comptroller — Delta County appraisal and tax contacts",
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/delta.php",
       "recordTypes": [
+        "Property Records",
         "Property Tax Records"
       ],
-      "status": "Official agency directory, not a record search.",
-      "access": "See agency for terms",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "access": "Public agency directory",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/delta.php",
-      "reviewStatus": "Official source identified; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 4,
+      "jurisdiction": "Delta County"
     }
   ],
   "DeWitt": [
@@ -3821,11 +3831,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "label": "State Comptroller — select Fannin County for appraisal and tax contacts",
-      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "status": "state directory referral; not a direct local portal",
-      "reviewStatus": "not independently reviewed"
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/fannin.php",
+      "label": "Texas Comptroller — Fannin County appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/fannin.php",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Fannin County",
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "label": "Public court records search",
@@ -5339,16 +5357,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "State Comptroller county contacts",
+      "label": "Texas Comptroller — Hopkins County appraisal and tax contacts",
       "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/hopkins.php",
       "recordTypes": [
+        "Property Records",
         "Property Tax Records"
       ],
-      "status": "Official agency directory, not a record search.",
-      "access": "See agency for terms",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "access": "Public agency directory",
       "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/hopkins.php",
-      "reviewStatus": "Official source identified; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 4,
+      "jurisdiction": "Hopkins County"
     }
   ],
   "Houston": [
@@ -7615,11 +7636,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "label": "State Comptroller — select Montgomery County for appraisal and tax contacts",
-      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "status": "state directory referral; not a direct local portal",
-      "reviewStatus": "not independently reviewed"
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/montgomery.php",
+      "label": "Texas Comptroller — Montgomery County appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/montgomery.php",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Montgomery County",
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "label": "Official recorded documents search",
@@ -7940,11 +7969,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "label": "State Comptroller — select Nueces County for appraisal and tax contacts",
-      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "status": "state directory referral; not a direct local portal",
-      "reviewStatus": "not independently reviewed"
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/nueces.php",
+      "label": "Texas Comptroller — Nueces County appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/nueces.php",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Nueces County",
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "label": "Official recorded documents search",
@@ -8606,11 +8643,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "label": "State Comptroller — select Red River County for appraisal and tax contacts",
-      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "status": "state directory referral; not a direct local portal",
-      "reviewStatus": "not independently reviewed"
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/redriver.php",
+      "label": "Texas Comptroller — Red River County appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/redriver.php",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Red River County",
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "label": "County clerk official records search",
@@ -8821,11 +8866,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "label": "State Comptroller — select Rockwall County for appraisal and tax contacts",
-      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "status": "state directory referral; not a direct local portal",
-      "reviewStatus": "not independently reviewed"
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/rockwall.php",
+      "label": "Texas Comptroller — Rockwall County appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/rockwall.php",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Rockwall County",
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "label": "Property records search guidance",
@@ -8850,6 +8903,35 @@
       "source": "https://www.rockwallcountytexas.com/909/Records",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal district property search",
+      "url": "https://rockwallcad.com/property-search-iframe",
+      "source": "https://www.rockwallcad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Rockwall County",
+      "status": "Public search entry page identified; individual searches and payments not tested.",
+      "reviewStatus": "Search page reviewed",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Property tax search and payment",
+      "url": "https://rockwall.propertytaxpayments.net/search",
+      "source": "https://rockwall.propertytaxpayments.net/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Rockwall County",
+      "status": "Public search entry page identified; individual searches and payments not tested.",
+      "reviewStatus": "Search page reviewed",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Runnels": [
@@ -10624,11 +10706,19 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "label": "State Comptroller — select Wichita County for appraisal and tax contacts",
-      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/",
-      "status": "state directory referral; not a direct local portal",
-      "reviewStatus": "not independently reviewed"
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/wichita.php",
+      "label": "Texas Comptroller — Wichita County appraisal and tax contacts",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/wichita.php",
+      "status": "County-specific agency contact directory; not an individual property search.",
+      "reviewStatus": "Official state directory page reviewed; local service functionality not tested",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Wichita County",
+      "reviewedOn": "2026-11-26",
+      "access": "Public agency directory"
     },
     {
       "url": "https://wichitatax.com/",
@@ -10636,6 +10726,21 @@
       "source": "https://wichitatax.com/",
       "status": "official agency resource identified; automated check pending",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Appraisal district property search",
+      "url": "https://esearch.wadtx.com/",
+      "source": "https://wadtx.com/search/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Wichita County",
+      "status": "Public search entry page identified; individual searches and payments not tested.",
+      "reviewStatus": "Search page reviewed",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Wilbarger": [
