@@ -134,6 +134,21 @@
       "source": "https://www.dallascounty.org/government/county-clerk/central-records/",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://www.dallascad.org/SearchOwner.aspx",
+      "source": "https://www.dallascad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Dallas County",
+      "status": "Search form visible; no individual query submitted.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Tarrant": [
@@ -313,6 +328,21 @@
       "reviewStatus": "Official source identified in web search",
       "reviewedOn": "2026-11-25",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Appraisal property quick search",
+      "url": "https://hcad.org/quicksearch",
+      "source": "https://hcad.org/property-search/property-search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Harris County",
+      "status": "Search entry identified; no individual query submitted.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Bexar": [
@@ -414,6 +444,21 @@
       "reviewStatus": "Official source identified in web search",
       "reviewedOn": "2026-11-25",
       "access": "See agency for terms"
+    },
+    {
+      "label": "New property search portal",
+      "url": "https://hgo.harrisgovern.com/bexar/property/search",
+      "source": "https://bcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bexar County",
+      "status": "Official linked portal; automated reader returned application error; browser verification required.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Travis": [
@@ -438,6 +483,21 @@
       "label": "State Comptroller county contacts",
       "status": "pending",
       "reviewStatus": "not independently reviewed"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://travis.prodigycad.com/property-search",
+      "source": "https://traviscad.org/propertysearch",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Travis County",
+      "status": "Official linked portal; automated reader could not render interactive content.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Collin": [
@@ -529,6 +589,21 @@
       "source": "https://www.collincountytx.gov/public-information/public-records",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://esearch.collincad.org/?valid=false",
+      "source": "https://collincad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Collin County",
+      "status": "Search form visible; no individual query submitted.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Denton": [
@@ -634,6 +709,21 @@
       "reviewStatus": "Official source identified in web search",
       "reviewedOn": "2026-11-25",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Property search portal",
+      "url": "https://www.dentoncad.com/property-search-information",
+      "source": "https://www.dentoncad.com/pages/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Denton County",
+      "status": "Official search information URL; automated reader could not render interactive content.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Fort Bend": [
@@ -6797,6 +6887,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Property search results interface",
+      "url": "https://www.hopkinscad.org/results/",
+      "source": "https://www.hopkinscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Hopkins County",
+      "status": "Search results interface identified; no query submitted.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Houston": [
@@ -10557,6 +10662,36 @@
       "source": "https://www.co.palo-pinto.tx.us/page/cclerk.realproperty",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Appraisal and tax agency contacts",
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/palopinto.php",
+      "source": "https://comptroller.texas.gov/taxes/property-tax/county-directory/palopinto.php",
+      "recordTypes": [
+        "Property Records",
+        "Property Tax Records"
+      ],
+      "destinationTier": 4,
+      "jurisdiction": "Palo Pinto County",
+      "status": "Official contact directory; linked appraisal homepage returned HTTP 404.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Appraisal property search",
+      "url": "https://iswdataclient.azurewebsites.net/webSearchGeoID.aspx?dbkey=palopintocad",
+      "source": "https://iswdataclient.azurewebsites.net/webSearchGeoID.aspx?dbkey=palopintocad",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Palo Pinto County",
+      "status": "Search form visible; no individual query submitted.",
+      "reviewStatus": "Source reviewed; interactive search not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Panola": [
