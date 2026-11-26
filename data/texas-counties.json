@@ -1,0 +1,502 @@
+{
+  "Dallas": [
+    {
+      "url": "https://www.dallascounty.org/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dallascad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/dallas.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Tarrant": [
+    {
+      "url": "https://www.tarrantcountytx.gov/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/tarrant.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tarrantcountytx.gov/content/main/en/county-clerk.html",
+      "label": "County clerk",
+      "status": "pending"
+    }
+  ],
+  "Harris": [
+    {
+      "url": "https://www.harriscountytx.gov/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://hcad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/harris.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Bexar": [
+    {
+      "url": "https://www.bexar.org/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://bcad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/bexar.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bexar.org/2946/County-Clerk",
+      "label": "County clerk",
+      "status": "pending"
+    }
+  ],
+  "Travis": [
+    {
+      "url": "https://www.traviscountytx.gov/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://traviscad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/travis.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Collin": [
+    {
+      "url": "https://www.collincountytx.gov/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.collincad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/collin.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Denton": [
+    {
+      "url": "https://www.dentoncounty.gov/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dentoncad.com/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/denton.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Fort Bend": [
+    {
+      "url": "https://www.fortbendcountytx.gov/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.fbcad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/fortbend.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "El Paso": [
+    {
+      "url": "https://www.epcounty.com/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://epcad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/elpaso.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Lamar": [
+    {
+      "url": "https://www.co.lamar.tx.us/",
+      "label": "County government",
+      "status": "pending"
+    },
+    {
+      "url": "https://lamarcad.org/",
+      "label": "Appraisal district",
+      "status": "pending"
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/property-tax/county-directory/lamar.php",
+      "label": "State Comptroller county contacts",
+      "status": "pending"
+    }
+  ],
+  "Anderson": [
+    {
+      "url": "https://www.co.anderson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Andrews": [
+    {
+      "url": "https://www.co.andrews.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Angelina": [
+    {
+      "url": "https://www.angelinacounty.net/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Aransas": [
+    {
+      "url": "https://www.co.aransas.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Archer": [
+    {
+      "url": "https://www.co.archer.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Armstrong": [
+    {
+      "url": "https://www.co.armstrong.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Atascosa": [
+    {
+      "url": "https://www.atascosacounty.texas.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Austin": [
+    {
+      "url": "https://www.austincounty.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bailey": [
+    {
+      "url": "https://www.co.bailey.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bandera": [
+    {
+      "url": "https://www.banderacounty.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bastrop": [
+    {
+      "url": "https://www.co.bastrop.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Baylor": [
+    {
+      "url": "https://www.co.baylor.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bee": [
+    {
+      "url": "https://www.beecounty.gov/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bell": [
+    {
+      "url": "https://www.bellcountytx.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Blanco": [
+    {
+      "url": "https://www.co.blanco.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Borden": [
+    {
+      "url": "https://www.co.borden.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bosque": [
+    {
+      "url": "https://www.bosquecounty.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Bowie": [
+    {
+      "url": "https://www.co.bowie.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Brazoria": [
+    {
+      "url": "https://www.brazoria-county.com/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Brazos": [
+    {
+      "url": "https://www.co.brazos.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Brewster": [
+    {
+      "url": "https://www.co.brewster.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Briscoe": [
+    {
+      "url": "https://www.co.briscoe.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Brooks": [
+    {
+      "url": "https://www.co.brooks.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Brown": [
+    {
+      "url": "https://www.browncountytx.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Burleson": [
+    {
+      "url": "https://www.co.burleson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Burnet": [
+    {
+      "url": "https://www.burnetcountytexas.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Caldwell": [
+    {
+      "url": "https://www.co.caldwell.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Calhoun": [
+    {
+      "url": "https://www.calhouncotx.org/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Callahan": [
+    {
+      "url": "https://www.co.callahan.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Cameron": [
+    {
+      "url": "https://www.co.cameron.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Camp": [
+    {
+      "url": "https://www.co.camp.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Carson": [
+    {
+      "url": "https://www.co.carson.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Cass": [
+    {
+      "url": "https://www.co.cass.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Castro": [
+    {
+      "url": "https://www.co.castro.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Chambers": [
+    {
+      "url": "https://www.co.chambers.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Cherokee": [
+    {
+      "url": "https://www.co.cherokee.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Childress": [
+    {
+      "url": "https://www.childresstx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Clay": [
+    {
+      "url": "https://www.claycountytx.net/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Cochran": [
+    {
+      "url": "https://www.co.cochran.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ],
+  "Coke": [
+    {
+      "url": "https://www.co.coke.tx.us/",
+      "label": "County government — locate clerk and court offices",
+      "source": "https://capitol.texas.gov/Resources/LocalLinks.aspx",
+      "status": "source-listed; endpoint unchecked"
+    }
+  ]
+}
