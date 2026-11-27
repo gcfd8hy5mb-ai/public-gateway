@@ -16546,6 +16546,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Starr — Property search",
+      "url": "https://esearch.starrcad.org/",
+      "source": "https://esearch.starrcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Starr County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Stephens": [
@@ -16618,18 +16633,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Sterling appraisal district — agency website",
+      "label": "Sterling — Property search",
       "url": "https://www.sterlingcad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "source": "https://www.sterlingcad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Sterling County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory reference reviewed; destination not independently tested",
-      "access": "See agency for terms"
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "access": "See agency terms; no automated collection authorized",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Stonewall": [
@@ -16771,6 +16787,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Swisher — Property tax search",
+      "url": "https://esearch.swishercounty.gov/",
+      "source": "https://esearch.swishercounty.gov/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Swisher County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
+    },
+    {
+      "label": "Swisher — Property search",
+      "url": "https://esearch.swisher-cad.org/",
+      "source": "https://esearch.swisher-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Swisher County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Taylor": [
@@ -16937,6 +16982,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Terry — Property search",
+      "url": "https://esearch.terrycoad.org/",
+      "source": "https://esearch.terrycoad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Terry County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Throckmorton": [
@@ -17250,6 +17310,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Trinity — Property search",
+      "url": "https://esearch.trinitycad.net/",
+      "source": "https://esearch.trinitycad.net/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Trinity County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Tyler": [
@@ -17486,6 +17561,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Uvalde — Property search",
+      "url": "https://esearch.uvaldecad.org/",
+      "source": "https://esearch.uvaldecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Uvalde County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Val Verde": [
@@ -17690,6 +17780,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Victoria — Property search",
+      "url": "https://esearch.victoriacad.org/",
+      "source": "https://esearch.victoriacad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Victoria County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Walker": [
@@ -17810,6 +17915,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Waller — Property search",
+      "url": "https://esearch.waller-cad.org/",
+      "source": "https://esearch.waller-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Waller County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Ward": [
@@ -18218,6 +18338,21 @@
       "source": "https://www.wilbargerappraisal.org/",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Wilbarger — Property search",
+      "url": "https://wilbargerappraisal.org/Home",
+      "source": "https://wilbargerappraisal.org/Home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Wilbarger County",
+      "status": "Published search interface identified; queries not tested.",
+      "reviewStatus": "Search interface identified in web index; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; no automated collection authorized"
     }
   ],
   "Willacy": [
