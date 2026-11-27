@@ -2400,6 +2400,21 @@
       "reviewStatus": "Forms page inspected",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Bosque — Taxpayer portal and online protests",
+      "url": "https://portal.bosquecad.com/",
+      "source": "https://bosquecad.com/notices-of-appraised-value-on-their-way-to-bosque-county-property-owners/",
+      "recordTypes": [
+        "Appraisal Protests",
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Bosque County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Bowie": [
@@ -3192,6 +3207,22 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Calhoun — Property search and tax payment",
+      "url": "https://esearch.calhouncad.org/",
+      "source": "https://calhouncad.org/information-on-paying-property-taxes/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Calhoun County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Callahan": [
@@ -3234,6 +3265,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Callahan — Property search",
+      "url": "https://esearch.callahancad.org/",
+      "source": "https://callahancad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Callahan County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Callahan — Appraisal forms",
+      "url": "https://callahancad.org/forms/",
+      "source": "https://callahancad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Callahan County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Cameron": [
