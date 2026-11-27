@@ -948,6 +948,20 @@
       "reviewStatus": "Public search page identified in web results; interactive audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Fort Bend — Property tax search",
+      "url": "https://actweb.acttax.com/act_webdev/fbc/index.jsp",
+      "source": "https://actweb.acttax.com/act_webdev/fbc/index.jsp",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Fort Bend County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "El Paso": [
@@ -987,6 +1001,21 @@
       "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "Use official service directly; see agency terms"
+    },
+    {
+      "label": "El Paso — Open government data and API information",
+      "url": "https://epcad.org/OpenGovernment",
+      "source": "https://epcad.org/OpenGovernment",
+      "recordTypes": [
+        "Property Records",
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "El Paso County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Lamar": [
@@ -6685,6 +6714,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Erath — Appraisal search",
+      "url": "https://esearch.erath-cad.com/",
+      "source": "https://esearch.erath-cad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Erath County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Falls": [
@@ -6764,6 +6808,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Falls — Appraisal search",
+      "url": "https://esearch.fallscad.net/",
+      "source": "https://esearch.fallscad.net/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Falls County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Fannin": [
@@ -6886,6 +6945,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Fayette — Appraisal search",
+      "url": "https://esearch.fayettecad.org/?valid=false",
+      "source": "https://esearch.fayettecad.org/?valid=false",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Fayette County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Fisher": [
@@ -6928,6 +7002,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Fisher — Property search",
+      "url": "https://www.fishercad.org/Home/Search",
+      "source": "https://www.fishercad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Fisher County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Floyd": [
@@ -6970,6 +7059,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Floyd — Property address search",
+      "url": "https://iswdataclient.azurewebsites.net/webSearchAddress.aspx?dbkey=floydcad",
+      "source": "https://iswdataclient.azurewebsites.net/webSearchAddress.aspx?dbkey=floydcad",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Floyd County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Foard": [
@@ -7012,6 +7116,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Foard — Property search",
+      "url": "https://www.foardcad.org/Home/Search",
+      "source": "https://www.foardcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Foard County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Foard — Published appraisal data",
+      "url": "https://foardcad.org/home/DataRecords",
+      "source": "https://foardcad.org/home/DataRecords",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Foard County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Franklin": [
@@ -7079,6 +7212,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Franklin — County clerk online records",
+      "url": "https://countyclerkrecords.co.franklin.tx.us/web",
+      "source": "https://www.franklincountyclerk.net/",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Franklin County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Freestone": [
@@ -7172,6 +7319,63 @@
       "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Freestone — Property search entry",
+      "url": "https://freestonecad.org/home/Custom?custurl=/home",
+      "source": "https://freestonecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Freestone County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Freestone — Map service entry",
+      "url": "https://freestonecad.org/home/Custom?custurl=/home/map",
+      "source": "https://freestonecad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Freestone County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Freestone — Forms service entry",
+      "url": "https://freestonecad.org/home/Custom?custurl=/Forms",
+      "source": "https://freestonecad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Freestone County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Freestone — Protest service entry",
+      "url": "https://freestonecad.org/home/Custom?custurl=/protest",
+      "source": "https://freestonecad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Freestone County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Frio": [
@@ -7214,6 +7418,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Frio — Appraisal search",
+      "url": "https://www.friocad.org/Home/Search",
+      "source": "https://www.friocad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Frio County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Frio — Tax search",
+      "url": "https://www.friocountytax.org/Home/Search",
+      "source": "https://www.friocountytax.org/Home/Search",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Frio County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Gaines": [
@@ -7271,6 +7504,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Gaines — Appraisal search",
+      "url": "https://esearch.gainescad.org/",
+      "source": "https://esearch.gainescad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Gaines County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; commercial use may require approval"
+    },
+    {
+      "label": "Gaines — Appraisal data downloads",
+      "url": "https://gainescad.org/data-downloads/",
+      "source": "https://gainescad.org/data-downloads/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Gaines County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms; commercial use may require approval"
     }
   ],
   "Galveston": [
@@ -7356,6 +7618,20 @@
       "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Galveston — Tax balance search",
+      "url": "https://actweb.acttax.com/act_webdev/galveston/showlist.jsp",
+      "source": "https://actweb.acttax.com/act_webdev/galveston/showlist.jsp",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Galveston County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Garza": [
@@ -7398,6 +7674,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Garza — Appraisal search",
+      "url": "https://esearch.garzacad.org/",
+      "source": "https://esearch.garzacad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Garza County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Gillespie": [
@@ -7476,6 +7767,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Gillespie — Appraisal search",
+      "url": "https://esearch.gillespiecad.org/",
+      "source": "https://gillespiecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Gillespie County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Gillespie — Appraisal forms",
+      "url": "https://gillespiecad.org/forms/",
+      "source": "https://gillespiecad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Gillespie County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Glasscock": [
@@ -7518,6 +7838,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Glasscock — Property search",
+      "url": "https://www.glasscockcad.org/Home/Search",
+      "source": "https://www.glasscockcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Glasscock County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Goliad": [
@@ -7572,6 +7907,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Goliad — Appraisal search",
+      "url": "https://goliadcad.org/Home/Search",
+      "source": "https://goliadcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Goliad County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Gonzales": [
@@ -7627,6 +7977,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Gonzales — Appraisal search",
+      "url": "https://gonzalescad.org/Home/Search",
+      "source": "https://gonzalescad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Gonzales County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Gonzales — Tax search",
+      "url": "https://gonzalescountytax.org/Home/Search",
+      "source": "https://gonzalescountytax.org/Home/Search",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Gonzales County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Gray": [
@@ -7669,6 +8048,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Gray — Appraisal search",
+      "url": "https://esearch.graycad.org/",
+      "source": "https://esearch.graycad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Gray County",
+      "status": "Published service or service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search page located in web research; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Grayson": [
