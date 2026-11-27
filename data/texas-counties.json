@@ -244,6 +244,21 @@
       "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Tarrant — County property information GIS search",
+      "url": "https://gisit.tarrantcounty.com/caid/",
+      "source": "https://gisit.tarrantcounty.com/caid/",
+      "recordTypes": [
+        "Property Maps",
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Tarrant County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Harris": [
@@ -5569,6 +5584,35 @@
       "source": "https://freestonecad.org/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Freestone — Appraisal property search",
+      "url": "https://www.freestonecad.org/Home",
+      "source": "https://www.freestonecad.org/Home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Freestone County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Freestone — Tax transparency",
+      "url": "https://www.texastaxtransparency.com/Freestone/",
+      "source": "https://www.freestonecad.org/Home",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Freestone County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Frio": [
@@ -9136,6 +9180,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Leon — Appraisal property search",
+      "url": "https://leoncad.org/home",
+      "source": "https://leoncad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Leon County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Leon — County tax search",
+      "url": "https://leoncountytax.org/home",
+      "source": "https://leoncountytax.org/home",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Leon County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Liberty": [
@@ -9244,16 +9317,18 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Tax property advanced search",
+      "label": "Limestone — Advanced property tax search",
       "url": "https://www.limestonetexas-tax.com/Advanced-Search",
       "recordTypes": [
         "Property Tax Records"
       ],
-      "status": "Online search entry; queries not tested.",
-      "access": "See agency for terms and eligibility",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "access": "See agency terms",
       "source": "https://www.limestonetexas-tax.com/Advanced-Search",
-      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Limestone County"
     },
     {
       "label": "Limestone appraisal district — agency website",
@@ -11891,6 +11966,50 @@
       "source": "https://rainscad.org/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Rains — Property search and tax payment entry",
+      "url": "https://esearch.rainscad.org/",
+      "source": "https://rainscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Rains County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Rains — Taxpayer portal",
+      "url": "https://portal.rainscad.org/",
+      "source": "https://www.rainsisd.org/page/tax-office/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Rains County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Rains — Truth in taxation",
+      "url": "https://rains.countytaxrates.com/tax",
+      "source": "https://rainscad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Rains County",
+      "status": "Published service entry identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page reviewed; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Randall": [
