@@ -149,6 +149,62 @@
       "reviewStatus": "Source reviewed; interactive search not tested",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Dallas — Interactive property map",
+      "url": "https://maps.dcad.org/prd/dpm/",
+      "source": "https://www.dallascad.org/?mobile=N",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallas County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dallas — Appraisal forms",
+      "url": "https://www.dallascad.org/forms.aspx",
+      "source": "https://www.dallascad.org/forms.aspx",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallas County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dallas — Appraisal data products",
+      "url": "https://www.dallascad.org/DataProducts.aspx",
+      "source": "https://www.dallascad.org/DataProducts.aspx",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallas County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dallas — Property tax lookup and payment",
+      "url": "https://www.dallascounty.org/departments/tax/pay-property-tax.php",
+      "source": "https://www.dallascounty.org/departments/tax/property-tax.php",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallas County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Tarrant": [
@@ -5230,6 +5286,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Crane — Property search",
+      "url": "https://cranecad.org/home",
+      "source": "https://cranecad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Crane County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Crane — Appraisal forms",
+      "url": "https://www.cranecad.org/Forms",
+      "source": "https://www.cranecad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Crane County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Crockett": [
@@ -5272,6 +5357,36 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Crockett — Property search and tax balances",
+      "url": "https://www.crockettcad.org/Home/Search",
+      "source": "https://www.crockettcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Crockett County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Crockett — Appraisal forms",
+      "url": "https://www.crockettcad.org/Forms",
+      "source": "https://www.crockettcad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Crockett County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Crosby": [
@@ -5314,6 +5429,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Crosby — Property search",
+      "url": "https://crosbycentral.org/home",
+      "source": "https://crosbycentral.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Crosby County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Crosby — Appraisal forms",
+      "url": "https://www.crosbycentral.org/Forms",
+      "source": "https://www.crosbycentral.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Crosby County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Culberson": [
@@ -5368,6 +5512,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Culberson — Property search",
+      "url": "https://www.culbersoncad.org/home",
+      "source": "https://www.culbersoncad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Culberson County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Culberson — Appraisal forms",
+      "url": "https://culbersoncad.org/Forms",
+      "source": "https://culbersoncad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Culberson County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Dallam": [
@@ -5410,6 +5583,64 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Dallam — Property search",
+      "url": "https://esearch.dallamcad.org/",
+      "source": "https://esearch.dallamcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Dallam County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dallam — Interactive parcel map",
+      "url": "https://gis.bisclient.com/dallamcad/",
+      "source": "https://dallamcad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallam County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dallam — Taxpayer portal and protests",
+      "url": "https://portal.dallamcad.org/",
+      "source": "https://dallamcad.org/",
+      "recordTypes": [
+        "Appraisal Protests",
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallam County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dallam — Appraisal forms",
+      "url": "https://dallamcad.org/forms/",
+      "source": "https://dallamcad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dallam County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Dawson": [
