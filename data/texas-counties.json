@@ -8282,6 +8282,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Grimes — Property search",
+      "url": "https://grimescad.org/Advanced-Search",
+      "source": "https://grimescad.org/Advanced-Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Grimes County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Guadalupe": [
@@ -8421,6 +8436,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hale — Property search",
+      "url": "https://esearch.halecad.org/",
+      "source": "https://esearch.halecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hale County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hall": [
@@ -8463,6 +8493,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hall — Property search",
+      "url": "https://hallcad.org/Home/Search",
+      "source": "https://hallcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hall County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hamilton": [
@@ -8547,18 +8592,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Hansford appraisal district — agency website",
+      "label": "Hansford — Property search",
       "url": "https://www.hansfordcad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "source": "https://www.hansfordcad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Hansford County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Hardeman": [
@@ -8589,18 +8635,33 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Hardeman appraisal district — agency website",
+      "label": "Hardeman — Property search",
       "url": "https://www.hardemancad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "source": "https://www.hardemancad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Hardeman County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
+    },
+    {
+      "label": "Hardeman — Tax search",
+      "url": "https://www.hardemancountytax.org/",
+      "source": "https://www.hardemancountytax.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hardeman County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hardin": [
@@ -8653,6 +8714,21 @@
       "source": "https://hardin-cad.org/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Hardin — Property search",
+      "url": "https://esearch.hardin-cad.org/",
+      "source": "https://esearch.hardin-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hardin County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Harrison": [
@@ -8799,6 +8875,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hartley — Property search",
+      "url": "https://esearch.hartleycad.org/",
+      "source": "https://esearch.hartleycad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hartley County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Haskell": [
@@ -8908,6 +8999,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hays — Property search",
+      "url": "https://esearch.hayscad.com/",
+      "source": "https://esearch.hayscad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hays County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Hays — Tax search",
+      "url": "https://tax.co.hays.tx.us/Advanced-Search",
+      "source": "https://tax.co.hays.tx.us/Advanced-Search",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hays County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hemphill": [
@@ -8950,6 +9070,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hemphill — Property search",
+      "url": "https://www.hemphillcad.org/Home/Search",
+      "source": "https://www.hemphillcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hemphill County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Henderson": [
@@ -9249,6 +9384,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hockley — Property search",
+      "url": "https://esearch.hockleycad.org/",
+      "source": "https://esearch.hockleycad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hockley County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hood": [
@@ -9433,16 +9583,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Appraisal property search",
+      "label": "Houston — Property search",
       "url": "https://houstoncad.org/home",
       "recordTypes": [
-        "Property Records"
+        "Property Records",
+        "Property Appraisals"
       ],
-      "status": "Search entry page observed; queries not tested.",
-      "access": "See agency for terms and eligibility",
+      "status": "Published service page identified; individual queries not tested.",
+      "access": "See agency terms",
       "source": "https://houstoncad.org/home",
-      "reviewStatus": "Official source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "destinationTier": 1,
+      "jurisdiction": "Houston County"
     },
     {
       "label": "Tax office",
@@ -9535,6 +9688,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Howard — Property search",
+      "url": "https://esearch.howardcad.org/",
+      "source": "https://esearch.howardcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Howard County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hudspeth": [
@@ -9577,6 +9745,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hudspeth — Property search",
+      "url": "https://esearch.hudspethcad.org/",
+      "source": "https://esearch.hudspethcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hudspeth County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Hudspeth — Tax payment guidance",
+      "url": "https://hudspethcad.org/pay-property-taxes/",
+      "source": "https://hudspethcad.org/pay-property-taxes/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "Hudspeth County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Hudspeth — Protest information",
+      "url": "https://hudspethcad.org/public-information/",
+      "source": "https://hudspethcad.org/public-information/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "Hudspeth County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hunt": [
@@ -9691,18 +9902,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Hutchinson appraisal district — agency website",
-      "url": "https://www.hutchinsoncad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "label": "Hutchinson — Property search",
+      "url": "https://hutchinsoncad.org/",
+      "source": "https://hutchinsoncad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Hutchinson County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Irion": [
@@ -9745,18 +9957,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Irion appraisal district — agency website",
+      "label": "Irion — Property search",
       "url": "https://www.irioncad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "source": "https://www.irioncad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Irion County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Jack": [
@@ -9787,18 +10000,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Jack appraisal district — agency website",
-      "url": "https://www.jackcad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "label": "Jack — Property search",
+      "url": "https://jackcad.org/",
+      "source": "https://jackcad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Jack County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Jackson": [
@@ -9853,6 +10067,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Jackson — Property search",
+      "url": "https://esearch.jacksoncad.org/Advanced-Search",
+      "source": "https://esearch.jacksoncad.org/Advanced-Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jackson County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Jasper": [
@@ -9906,6 +10135,35 @@
       "source": "https://jaspercad.org/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Jasper — Property search",
+      "url": "https://esearch.jaspercad.org/",
+      "source": "https://esearch.jaspercad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jasper County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Jasper — Tax search",
+      "url": "https://jaspertax.atpro.tylerapp.com/",
+      "source": "https://jaspertax.atpro.tylerapp.com/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jasper County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Jeff Davis": [
@@ -9972,6 +10230,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Jeff Davis — Property search",
+      "url": "https://www.jeffdaviscad.org/home",
+      "source": "https://www.jeffdaviscad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jeff Davis County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Jeff Davis — Interactive map",
+      "url": "https://www.jeffdaviscad.org/home/map",
+      "source": "https://www.jeffdaviscad.org/home/map",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Jeff Davis County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Jefferson": [
@@ -10014,6 +10301,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Jefferson — Property search",
+      "url": "https://esearch.jcad.org/",
+      "source": "https://esearch.jcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jefferson County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Jim Hogg": [
@@ -10068,6 +10370,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Jim Hogg — Property search",
+      "url": "https://www.jimhogg-cad.org/Home/Search",
+      "source": "https://www.jimhogg-cad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jim Hogg County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Jim Hogg — Recorded document search",
+      "url": "https://jimhogg.tx.publicsearch.us/",
+      "source": "https://jimhogg.tx.publicsearch.us/",
+      "recordTypes": [
+        "Land and Deed Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Jim Hogg County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Jim Wells": [
@@ -10134,6 +10465,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Jim Wells — Data downloads",
+      "url": "https://www.jimwellscad.org/data-downloads",
+      "source": "https://www.jimwellscad.org/data-downloads",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Jim Wells County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Johnson": [
@@ -10235,18 +10580,33 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Jones appraisal district — agency website",
-      "url": "https://www.jonescad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "label": "Jones — Property search",
+      "url": "https://jonescad.org/",
+      "source": "https://jonescad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Jones County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
+    },
+    {
+      "label": "Jones — Published data and records",
+      "url": "https://www.jonescad.org/home/DataRecords",
+      "source": "https://www.jonescad.org/home/DataRecords",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Jones County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Karnes": [
@@ -10289,6 +10649,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Karnes — Property search",
+      "url": "https://karnescad.org/Home/Search",
+      "source": "https://karnescad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Karnes County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kaufman": [
@@ -10364,16 +10739,18 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "label": "Official recorded documents search",
+      "label": "Kendall — Recorded document search",
       "url": "https://kendall.tx.publicsearch.us/",
       "recordTypes": [
         "Land and Deed Records"
       ],
-      "status": "Search entry identified; queries not tested.",
-      "access": "See agency for terms and eligibility",
+      "status": "Published service page identified; individual queries not tested.",
+      "access": "See agency terms",
       "source": "https://kendall.tx.publicsearch.us/",
-      "reviewStatus": "Source identified in web research; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "destinationTier": 1,
+      "jurisdiction": "Kendall County"
     },
     {
       "label": "Historical indexes",
@@ -10412,6 +10789,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kendall — Property search",
+      "url": "https://esearch.kendallad.org/",
+      "source": "https://esearch.kendallad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kendall County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Official or district-branded page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kenedy": [
