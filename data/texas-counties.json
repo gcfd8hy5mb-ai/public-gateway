@@ -18828,6 +18828,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Yoakum — Appraisal search",
+      "url": "https://esearch.yoakumcad.org/",
+      "source": "https://esearch.yoakumcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Yoakum County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Yoakum — Property tax search",
+      "url": "https://yoakum.propertytaxpayments.net/search",
+      "source": "https://yoakum.propertytaxpayments.net/search",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Yoakum County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Yoakum — Data downloads",
+      "url": "https://yoakumcad.org/data-downloads/",
+      "source": "https://yoakumcad.org/data-downloads/",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Yoakum County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Young": [
@@ -18886,6 +18929,35 @@
       "source": "https://www.co.young.tx.us/page/young.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Young — Appraisal search",
+      "url": "https://esearch.youngcad.org/",
+      "source": "https://esearch.youngcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Young County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Young — Tax and appraisal information",
+      "url": "https://youngcad.org/tax-information/",
+      "source": "https://youngcad.org/tax-information/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Young County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Zapata": [
@@ -18949,6 +19021,21 @@
       "source": "https://www.co.zapata.tx.us/page/zapata.District.Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Zapata — Appraisal search",
+      "url": "https://esearch.zapatacad.com/",
+      "source": "https://esearch.zapatacad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Zapata County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Zavala": [
@@ -18995,6 +19082,35 @@
       "source": "https://www.co.zavala.tx.us/page/County%20Clerk",
       "reviewStatus": "Source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Zavala — Appraisal search",
+      "url": "https://esearch.zavalacad.com/",
+      "source": "https://esearch.zavalacad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Zavala County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Zavala — Appraisal reports and plans",
+      "url": "https://zavalacad.com/reports-plans/",
+      "source": "https://zavalacad.com/reports-plans/",
+      "recordTypes": [
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Zavala County",
+      "status": "Published service page identified; individual queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ]
 }
