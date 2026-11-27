@@ -4735,6 +4735,48 @@
       "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Comal — County property tax search",
+      "url": "https://property.comalcounty.gov/search",
+      "source": "https://property.comalcounty.gov/search",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Comal County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Comal — County GIS maps and data",
+      "url": "https://www.comalcounty.gov/272/GIS",
+      "source": "https://www.comalcounty.gov/272/GIS",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Comal County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Comal — Appraisal forms guidance",
+      "url": "https://comalad.org/forms/",
+      "source": "https://comalad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Comal County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Online forms service being updated; consult district"
     }
   ],
   "Comanche": [
@@ -4789,6 +4831,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Comanche — Appraisal search",
+      "url": "https://esearch.comanchecad.org/",
+      "source": "https://comanchecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Comanche County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Comanche — Appraisal forms",
+      "url": "https://comanchecad.org/forms/",
+      "source": "https://comanchecad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Comanche County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Comanche — Tax rate and collector information",
+      "url": "https://comanchecad.org/tax-rates/",
+      "source": "https://comanchecad.org/tax-rates/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "Comanche County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Concho": [
@@ -4832,6 +4917,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Concho — Appraisal search",
+      "url": "https://esearch.conchocad.org/",
+      "source": "https://esearch.conchocad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Concho County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Concho — Appraisal forms",
+      "url": "https://conchocad.org/forms/",
+      "source": "https://conchocad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Concho County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Cooke": [
@@ -4875,6 +4989,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Cooke — Property tax search and payment",
+      "url": "https://cooke.propertytaxpayments.net/search",
+      "source": "https://cooke.propertytaxpayments.net/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Cooke County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Coryell": [
@@ -4930,6 +5058,64 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Coryell — Appraisal search",
+      "url": "https://esearch.coryellcad.org/",
+      "source": "https://esearch.coryellcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Coryell County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Coryell — Appraisal forms",
+      "url": "https://coryellcad.org/commonly-used-forms/",
+      "source": "https://coryellcad.org/commonly-used-forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Coryell County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Coryell — Online forms filing",
+      "url": "https://forms.coryellcad.org/",
+      "source": "https://coryellcad.org/public-service-announcement/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Coryell County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Coryell — Appraisal data portal",
+      "url": "https://coryellcad.org/data-portal/",
+      "source": "https://coryellcad.org/data-portal/",
+      "recordTypes": [
+        "Property Records",
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Coryell County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Cottle": [
@@ -4972,6 +5158,36 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Cottle — Property search and tax balances",
+      "url": "https://www.cottlecad.org/Home/Search",
+      "source": "https://www.cottlecad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Cottle County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Cottle — Appraisal forms",
+      "url": "https://cottlecad.org/Forms",
+      "source": "https://cottlecad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Cottle County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Published source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Crane": [
