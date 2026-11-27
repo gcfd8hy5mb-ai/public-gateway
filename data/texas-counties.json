@@ -867,6 +867,48 @@
       "reviewStatus": "Source reviewed; interactive search not tested",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Denton — Property tax search and payment",
+      "url": "https://taxweb.dentoncounty.gov/Search",
+      "source": "https://www.dentoncounty.gov/778/Tax-Assessor-Collector",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Denton County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Denton — Appraisal map search",
+      "url": "https://www.dentoncad.com/maps",
+      "source": "https://www.dentoncad.com/maps",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Denton County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Denton — GIS data downloads",
+      "url": "https://denton.prodigycad.com/data-downloads",
+      "source": "https://denton.prodigycad.com/data-downloads",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Denton County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Fort Bend": [
@@ -5695,6 +5737,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Dawson — Property search",
+      "url": "https://dawsoncad.org/home",
+      "source": "https://dawsoncad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Dawson County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dawson — Appraisal forms",
+      "url": "https://www.dawsoncad.org/Forms",
+      "source": "https://www.dawsoncad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dawson County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Deaf Smith": [
@@ -5737,6 +5808,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Deaf Smith — Property search",
+      "url": "https://esearch.deafsmithcad.org/",
+      "source": "https://deafsmithcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Deaf Smith County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Deaf Smith — Appraisal forms",
+      "url": "https://deafsmithcad.org/forms/",
+      "source": "https://deafsmithcad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Deaf Smith County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Delta": [
@@ -5795,6 +5895,34 @@
       "reviewedOn": "2026-11-26",
       "destinationTier": 4,
       "jurisdiction": "Delta County"
+    },
+    {
+      "label": "Delta — Appraisal forms",
+      "url": "https://delta-cad.org/forms/",
+      "source": "https://delta-cad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Delta County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Delta — Proposed property tax rates",
+      "url": "https://delta.countytaxrates.com",
+      "source": "https://delta-cad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Delta County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "DeWitt": [
@@ -5852,6 +5980,36 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "DeWitt — Property search and tax balances",
+      "url": "https://dewittcad.org/Home/Search",
+      "source": "https://dewittcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "DeWitt County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "DeWitt — Appraisal forms",
+      "url": "https://www.dewittcad.org/Forms",
+      "source": "https://www.dewittcad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "DeWitt County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Dickens": [
@@ -5894,6 +6052,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Dickens — Property search",
+      "url": "https://dickenscad.org/home",
+      "source": "https://dickenscad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Dickens County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dickens — Appraisal forms",
+      "url": "https://dickenscad.org/Forms",
+      "source": "https://dickenscad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dickens County",
+      "status": "Published district service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Dimmit": [
