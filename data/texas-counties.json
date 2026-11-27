@@ -1767,6 +1767,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Andrews — Direct appraisal search",
+      "url": "https://esearch.andrewscad.org/",
+      "source": "https://andrewscad.org/property-information/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Andrews County",
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Angelina": [
@@ -1883,6 +1898,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Aransas — Direct appraisal search",
+      "url": "https://esearch.aransascad.org/",
+      "source": "https://aransascad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Aransas County",
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Archer": [
@@ -1959,18 +1989,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Armstrong appraisal district — agency website",
+      "label": "Armstrong — Direct appraisal search",
       "url": "https://www.armstrongcad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "source": "https://www.armstrongcad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Armstrong County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory reference reviewed; destination not independently tested",
-      "access": "See agency for terms"
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Atascosa": [
@@ -2136,6 +2167,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Bailey — Direct appraisal search",
+      "url": "https://esearch.bailey-cad.org/",
+      "source": "https://bailey-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bailey County",
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Bandera": [
@@ -2178,6 +2224,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Bandera — Direct appraisal search",
+      "url": "https://esearch.bancad.org/?valid=false",
+      "source": "https://bancad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bandera County",
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Bastrop": [
@@ -2320,6 +2381,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Bee — Direct appraisal search",
+      "url": "https://esearch.beecad.org/",
+      "source": "https://beecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bee County",
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Bell": [
@@ -3104,6 +3180,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Burleson — Direct appraisal search",
+      "url": "https://esearch.burlesonappraisal.com/",
+      "source": "https://burlesonappraisal.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Burleson County",
+      "status": "Published district search interface identified; individual queries not tested.",
+      "reviewStatus": "District-branded search page indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Burnet": [
