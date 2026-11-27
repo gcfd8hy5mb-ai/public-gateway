@@ -6123,6 +6123,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Dimmit — Appraisal forms",
+      "url": "https://dimmit-cad.org/forms/",
+      "source": "https://dimmit-cad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Dimmit County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Donley": [
@@ -6165,6 +6179,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Donley — Property search",
+      "url": "https://donleycad.org/home",
+      "source": "https://donleycad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Donley County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Donley — Appraisal forms",
+      "url": "https://donleycad.org/Forms",
+      "source": "https://donleycad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Donley County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Duval": [
@@ -6207,6 +6250,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Duval — Property search",
+      "url": "https://esearch.duvalcad.org/",
+      "source": "https://esearch.duvalcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Duval County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Duval — Appraisal forms",
+      "url": "https://duvalcad.org/forms/",
+      "source": "https://duvalcad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Duval County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Duval — County tax search",
+      "url": "https://actweb.acttax.com/act_webdev/duval/",
+      "source": "https://actweb.acttax.com/act_webdev/duval/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Duval County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Eastland": [
@@ -6249,6 +6335,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Eastland — Property search",
+      "url": "https://eastlandcad.org/Home",
+      "source": "https://eastlandcad.org/Home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Eastland County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Eastland — Appraisal forms",
+      "url": "https://eastlandcad.org/Forms",
+      "source": "https://eastlandcad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Eastland County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Ector": [
@@ -6306,6 +6421,20 @@
       "reviewStatus": "Source reviewed; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "Use official service directly; see agency terms"
+    },
+    {
+      "label": "Ector — GIS number search",
+      "url": "https://www.ectorcad.org/search/re_gis",
+      "source": "https://www.ectorcad.org/search/re_gis",
+      "recordTypes": [
+        "Property Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Ector County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Edwards": [
@@ -6348,6 +6477,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Edwards — Appraisal search",
+      "url": "https://esearch.edwardscad.org/",
+      "source": "https://esearch.edwardscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Edwards County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Edwards — Appraisal forms",
+      "url": "https://www.edwardscad.org/forms",
+      "source": "https://www.edwardscad.org/forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Edwards County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Edwards — Published county maps",
+      "url": "https://www.edwardscad.org/maps",
+      "source": "https://www.edwardscad.org/maps",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Edwards County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Ellis": [
@@ -6443,6 +6615,20 @@
       "status": "Municipal government links to this search; automated rendering unavailable.",
       "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
       "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Ellis — Parcel data guidance",
+      "url": "https://elliscountytx.gov/1090/Parcel-Data-from-the-Ellis-County-Apprai",
+      "source": "https://elliscountytx.gov/1090/Parcel-Data-from-the-Ellis-County-Apprai",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "Ellis County",
+      "status": "Published service or guidance identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
       "access": "See agency terms"
     }
   ],
