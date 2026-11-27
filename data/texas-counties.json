@@ -10846,6 +10846,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kenedy — Tax search",
+      "url": "https://search.kenedycountytx.gov/",
+      "source": "https://search.kenedycountytx.gov/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kenedy County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kent": [
@@ -10888,6 +10902,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kent — Appraisal search",
+      "url": "https://www.kentcad.org/Home/Search",
+      "source": "https://www.kentcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kent County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kerr": [
@@ -10943,6 +10972,50 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kerr — Appraisal search",
+      "url": "https://esearch.kerrcad.org/",
+      "source": "https://esearch.kerrcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kerr County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Kerr — Tax search",
+      "url": "https://esearch.co.kerr.tx.us/",
+      "source": "https://esearch.co.kerr.tx.us/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kerr County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Kerr — Appraisal exports",
+      "url": "https://kerrcad.org/appraisal-exports/",
+      "source": "https://kerrcad.org/appraisal-exports/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Kerr County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kimble": [
@@ -10997,6 +11070,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kimble — Appraisal search",
+      "url": "https://esearch.kimblecad.org/",
+      "source": "https://esearch.kimblecad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kimble County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "King": [
@@ -11051,6 +11139,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "King — Appraisal search",
+      "url": "https://www.kingcad.org/home",
+      "source": "https://www.kingcad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "King County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "King — Tax search entry",
+      "url": "https://www.kingcountytax.org/",
+      "source": "https://www.kingcountytax.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "King County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kinney": [
@@ -11117,6 +11234,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kinney — Appraisal search",
+      "url": "https://esearch.kinneycad.org/",
+      "source": "https://esearch.kinneycad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kinney County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Kleberg": [
@@ -11159,6 +11291,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Kleberg — Appraisal search",
+      "url": "https://esearch.kleberg-cad.org/",
+      "source": "https://esearch.kleberg-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Kleberg County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Knox": [
@@ -11201,6 +11348,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Knox — Appraisal search",
+      "url": "https://esearch.knoxcad.com/",
+      "source": "https://esearch.knoxcad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Knox County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Knox — Taxpayer portal",
+      "url": "https://portal.knoxcad.com/",
+      "source": "https://portal.knoxcad.com/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Knox County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "La Salle": [
@@ -11297,6 +11473,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Lamb — Appraisal search",
+      "url": "https://esearch.lambcad.org/",
+      "source": "https://esearch.lambcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lamb County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Lampasas": [
@@ -11363,6 +11554,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Lampasas — Appraisal search",
+      "url": "https://esearch.lampasascad.com/",
+      "source": "https://esearch.lampasascad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lampasas County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Lavaca": [
@@ -11417,6 +11623,50 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Lavaca — Tax search",
+      "url": "https://www.lavacacountytax.com/Advanced-Search",
+      "source": "https://www.lavacacountytax.com/Advanced-Search",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lavaca County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Lavaca — Appraisal search",
+      "url": "https://esearch.lavacacad.com/",
+      "source": "https://esearch.lavacacad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lavaca County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Lavaca — Certified appraisal rolls",
+      "url": "https://lavacacad.com/certified-appraisal-rolls/",
+      "source": "https://lavacacad.com/certified-appraisal-rolls/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Lavaca County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Lee": [
@@ -11471,6 +11721,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Lee — Tax search",
+      "url": "https://esearch.leetax.org/",
+      "source": "https://esearch.leetax.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lee County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Lee — Appraisal search",
+      "url": "https://esearch.lee-cad.org/",
+      "source": "https://esearch.lee-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Lee County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Leon": [
@@ -11632,6 +11911,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Liberty — Appraisal search",
+      "url": "https://esearch.libertycad.com/",
+      "source": "https://esearch.libertycad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Liberty County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Limestone": [
@@ -12351,6 +12645,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Matagorda — Appraisal search",
+      "url": "https://esearch.matagorda-cad.org/",
+      "source": "https://esearch.matagorda-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Matagorda County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Maverick": [
@@ -12394,6 +12703,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Maverick — Tax search",
+      "url": "https://esearch.co.maverick.tx.us/",
+      "source": "https://esearch.co.maverick.tx.us/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Maverick County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "McCulloch": [
@@ -12573,6 +12896,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "McMullen — Appraisal search",
+      "url": "https://esearch.mcmullencad.org/",
+      "source": "https://esearch.mcmullencad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "McMullen County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Medina": [
@@ -12615,6 +12953,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Medina — Appraisal search",
+      "url": "https://esearch.medinacad.org/",
+      "source": "https://esearch.medinacad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Medina County",
+      "status": "Published search or service page identified; queries not tested.",
+      "reviewStatus": "Source indexed in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Menard": [
