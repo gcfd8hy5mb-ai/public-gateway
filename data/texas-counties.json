@@ -1894,6 +1894,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Austin — Appraisal search",
+      "url": "https://esearch.austincad.org/",
+      "source": "https://esearch.austincad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Austin County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Bailey": [
@@ -2925,6 +2940,64 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Burnet — Property search and tax payment",
+      "url": "https://esearch.burnet-cad.org/",
+      "source": "https://burnet-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Burnet County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Burnet — Interactive parcel map",
+      "url": "https://gis.bisclient.com/burnetcad/",
+      "source": "https://burnet-cad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Burnet County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Burnet — Taxpayer portal",
+      "url": "https://portal.burnet-cad.org/",
+      "source": "https://burnet-cad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Burnet County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Burnet — Appraisal forms",
+      "url": "https://burnet-cad.org/forms/",
+      "source": "https://burnet-cad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Burnet County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Caldwell": [
@@ -2980,6 +3053,36 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Caldwell — Property search",
+      "url": "https://esearch.caldwellcad.org/",
+      "source": "https://caldwellcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Caldwell County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Caldwell — Online protest and taxpayer portal",
+      "url": "https://portal.caldwellcad.org/",
+      "source": "https://caldwellcad.org/",
+      "recordTypes": [
+        "Appraisal Protests",
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Caldwell County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Source page inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Calhoun": [
