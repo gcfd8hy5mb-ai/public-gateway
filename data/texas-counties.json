@@ -3415,6 +3415,20 @@
       "reviewStatus": "Published source reviewed; interactive audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Cameron — Public portal",
+      "url": "https://www.cameroncad.org/Pages/PublicPortal",
+      "source": "https://www.cameroncad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Cameron County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Camp": [
@@ -3497,6 +3511,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Camp — Online protest portal",
+      "url": "https://portal.campcad.org/",
+      "source": "https://campcad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Camp County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; account may be required"
     }
   ],
   "Carson": [
@@ -3539,6 +3567,77 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Carson — Property search",
+      "url": "https://www.carsoncad.org/home",
+      "source": "https://www.carsoncad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Carson County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Carson — Interactive map",
+      "url": "https://www.carsoncad.org/home/map",
+      "source": "https://www.carsoncad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Carson County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Carson — Appraisal forms",
+      "url": "https://www.carsoncad.org/Forms",
+      "source": "https://www.carsoncad.org/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Carson County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Carson — Online protest sign-in",
+      "url": "https://www.carsoncad.org/protest",
+      "source": "https://www.carsoncad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Carson County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; account may be required"
+    },
+    {
+      "label": "Carson — Tax office property search",
+      "url": "https://carsoncountytax.org/Home/Search",
+      "source": "https://carsoncountytax.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Carson County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Cass": [
@@ -3623,6 +3722,20 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Cass — Online protests",
+      "url": "https://eprotest.casscad.org/",
+      "source": "https://casscad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Cass County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official agency source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms; account may be required"
     }
   ],
   "Castro": [
