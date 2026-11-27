@@ -2357,6 +2357,49 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Bosque — Property search",
+      "url": "https://esearch.bosquecad.com/",
+      "source": "https://bosquecad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Bosque County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Search form inspected; queries not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Bosque — Interactive parcel map",
+      "url": "https://gis.bisclient.com/Bosquecad/",
+      "source": "https://bosquecad.com/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Bosque County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Agency link inspected; destination returned unsupported browser message",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Bosque — Appraisal forms",
+      "url": "https://bosquecad.com/forms/",
+      "source": "https://bosquecad.com/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Bosque County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Forms page inspected",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Bowie": [
@@ -11744,6 +11787,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Parker — Property address search",
+      "url": "https://iswdataclient.azurewebsites.net/webSearchAddress.aspx?dbkey=PARKERCAD",
+      "source": "https://iswdataclient.azurewebsites.net/webSearchAddress.aspx?dbkey=PARKERCAD",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Parker County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "District-branded search form inspected; queries not tested",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Parmer": [
