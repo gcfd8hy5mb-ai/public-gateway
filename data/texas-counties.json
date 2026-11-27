@@ -3778,6 +3778,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Castro — Property search",
+      "url": "https://esearch.castrocad.org/",
+      "source": "https://castrocad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Castro County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Interactive use only; no electronic data transfer; agency reports service downtime"
+    },
+    {
+      "label": "Castro — Appraisal forms",
+      "url": "https://castrocad.org/forms/",
+      "source": "https://castrocad.org/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Castro County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Chambers": [
@@ -3856,6 +3885,63 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Chambers — Property search",
+      "url": "https://www.chamberscad.org/home",
+      "source": "https://www.chamberscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Chambers County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Chambers — Interactive map",
+      "url": "https://www.chamberscad.org/home/map",
+      "source": "https://www.chamberscad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Chambers County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Chambers — Appraisal forms",
+      "url": "https://chamberscad.org/Forms",
+      "source": "https://chamberscad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Chambers County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Chambers — Online protest",
+      "url": "https://www.chamberscad.org/protest",
+      "source": "https://www.chamberscad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Chambers County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Account and CAPTCHA required"
     }
   ],
   "Cherokee": [
@@ -3913,6 +3999,20 @@
       "reviewStatus": "Search form reviewed; interactive audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Cherokee — Appraisal forms",
+      "url": "https://cherokeecad.com/forms/",
+      "source": "https://cherokeecad.com/forms/",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Cherokee County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Childress": [
@@ -3955,6 +4055,50 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Childress — Property search",
+      "url": "https://www.childresscad.org/Home/Search",
+      "source": "https://www.childresscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals",
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Childress County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Childress — Online protest",
+      "url": "https://www.childresscad.org/Protest",
+      "source": "https://www.childresscad.org/",
+      "recordTypes": [
+        "Appraisal Protests"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Childress County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Account and CAPTCHA required"
+    },
+    {
+      "label": "Childress — Appraisal forms",
+      "url": "https://www.childresscad.org/Forms",
+      "source": "https://www.childresscad.org/Forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Childress County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Clay": [
@@ -4021,6 +4165,48 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Clay — Interactive map",
+      "url": "https://claycad.org/home/map",
+      "source": "https://claycad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Clay County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Clay — Appraisal forms",
+      "url": "https://www.claycad.org/forms",
+      "source": "https://www.claycad.org/forms",
+      "recordTypes": [
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Clay County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Clay — Tax payment guidance",
+      "url": "https://claycad.org/home/Custom?custurl=/home/paypropertytaxesonline",
+      "source": "https://claycad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Clay County",
+      "status": "Published district service or search page identified; individual queries and transactions not tested.",
+      "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Cochran": [
