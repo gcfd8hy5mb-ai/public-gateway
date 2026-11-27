@@ -230,6 +230,20 @@
       "source": "https://www.tarrantcountytx.gov/en/tax/property-tax/tax-office-requests-for-information.html",
       "reviewStatus": "official source reviewed",
       "reviewedOn": "2026-11-25"
+    },
+    {
+      "label": "Tarrant — Interactive appraisal map",
+      "url": "https://tad.maps.arcgis.com/apps/webappviewer/index.html?id=89623a2c35ff41f5b409d28a306e3b51",
+      "source": "https://www.mansfieldtexas.gov/401/Related-Links",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Tarrant County",
+      "status": "Municipal government linked map; interactive rendering not verified.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Harris": [
@@ -5027,6 +5041,21 @@
       "reviewStatus": "Official source link reviewed; endpoint and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Ellis — Appraisal property search",
+      "url": "https://www.elliscad.com/property-search",
+      "source": "https://www.mansfieldtexas.gov/401/Related-Links",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Ellis County",
+      "status": "Municipal government links to this search; automated rendering unavailable.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Erath": [
@@ -7265,6 +7294,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hood — Appraisal property search",
+      "url": "https://www.southwestdatasolution.com/webindex.aspx?dbkey=HOODCAD",
+      "source": "https://hoodcad.net/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hood County",
+      "status": "District-linked search form visible.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Hopkins": [
@@ -7605,6 +7649,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hunt — Appraisal property search",
+      "url": "https://hunt-cad.org/search/",
+      "source": "https://hunt-cad.org/search/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Hunt County",
+      "status": "Indexed district search destination.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Hutchinson": [
@@ -8135,6 +8194,20 @@
       "reviewStatus": "Published source reviewed; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Johnson — Interactive appraisal map",
+      "url": "https://gis.bisclient.com/Johnsoncad/",
+      "source": "https://www.mansfieldtexas.gov/401/Related-Links",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Johnson County",
+      "status": "Municipal government linked map; interactive rendering not verified.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Jones": [
@@ -13642,16 +13715,18 @@
       "reviewStatus": "not independently reviewed"
     },
     {
-      "label": "Property tax search",
+      "label": "Titus — County tax property search",
       "url": "https://esearch.co.titus.tx.us/",
       "recordTypes": [
         "Property Tax Records"
       ],
-      "status": "Direct tax property search.",
-      "access": "See agency for terms",
+      "status": "County tax search form visible.",
+      "access": "See agency terms",
       "source": "https://esearch.co.titus.tx.us/",
-      "reviewStatus": "Official source reviewed; interactive functionality not tested",
-      "reviewedOn": "2026-11-26"
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "destinationTier": 1,
+      "jurisdiction": "Titus County"
     },
     {
       "label": "County court records",
@@ -13727,6 +13802,64 @@
       "source": "https://www.co.titus.tx.us/page/co.taxoffice",
       "reviewStatus": "Official source reviewed; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Titus — Appraisal property search",
+      "url": "https://esearch.titus-cad.org/",
+      "source": "https://titus-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Titus County",
+      "status": "Search page indexed; values may be preliminary.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Titus — Interactive parcel map",
+      "url": "https://gis.bisclient.com/tituscad/",
+      "source": "https://titus-cad.org/",
+      "recordTypes": [
+        "Property Maps"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Titus County",
+      "status": "District-linked GIS; rendering not verified.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Titus — Taxpayer portal and appraisal appeals",
+      "url": "https://portal.titus-cad.org/",
+      "source": "https://eprotest.titus-cad.org/",
+      "recordTypes": [
+        "Appraisal Protests",
+        "Property Tax Forms"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Titus County",
+      "status": "Replacement taxpayer portal; login required.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "Account required"
+    },
+    {
+      "label": "Titus — Truth in taxation",
+      "url": "https://titus.countytaxrates.com/tax",
+      "source": "https://titus-cad.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Titus County",
+      "status": "Published tax transparency link; not a payment service.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Tom Green": [
@@ -15209,6 +15342,21 @@
       "source": "https://www.woodcad.net/open-record-downloads/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Wood — Appraisal property search",
+      "url": "https://esearch.woodcad.net/",
+      "source": "https://esearch.woodcad.net/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Wood County",
+      "status": "Indexed district search destination.",
+      "reviewStatus": "Published source inspected; interactive queries and terms audit pending",
+      "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
     }
   ],
   "Yoakum": [
