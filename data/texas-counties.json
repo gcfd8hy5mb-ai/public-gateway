@@ -2068,6 +2068,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Atascosa — Appraisal search",
+      "url": "https://esearch.atascosacad.com/",
+      "source": "https://esearch.atascosacad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Atascosa County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Austin": [
@@ -2522,6 +2537,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Blanco — Appraisal search",
+      "url": "https://esearch.blancocad.com/",
+      "source": "https://esearch.blancocad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Blanco County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Borden": [
@@ -2564,6 +2594,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Borden — Appraisal search",
+      "url": "https://esearch.bordencad.org/",
+      "source": "https://esearch.bordencad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Borden County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Bosque": [
@@ -2987,6 +3032,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Brewster — Appraisal search",
+      "url": "https://esearch.brewstercotad.org/",
+      "source": "https://brewstercotad.org/property-information/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Brewster County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Briscoe": [
@@ -3083,6 +3143,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Brooks — Appraisal search",
+      "url": "https://esearch.brookscad.org/",
+      "source": "https://esearch.brookscad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Brooks County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Brown": [
@@ -3125,6 +3200,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Brown — Appraisal search",
+      "url": "https://esearch.brown-cad.org/",
+      "source": "https://esearch.brown-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Brown County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Burleson": [
@@ -4482,6 +4572,21 @@
       "status": "Published district service or search page identified; individual queries and transactions not tested.",
       "reviewStatus": "Official source inspected; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-26",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Clay — Appraisal search",
+      "url": "https://www.claycad.org/Home/Search",
+      "source": "https://www.claycad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Clay County",
+      "status": "District-branded search page indexed; individual queries not tested.",
+      "reviewStatus": "Search page identified in web research; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
       "access": "See agency terms"
     }
   ],
