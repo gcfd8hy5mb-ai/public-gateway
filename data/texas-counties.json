@@ -909,6 +909,21 @@
       "reviewStatus": "Official source identified in web research; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms"
+    },
+    {
+      "label": "Denton — Appraisal search portal",
+      "url": "https://www.dentoncad.com/property-search",
+      "source": "https://www.dentoncad.com/property-search-information",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Denton County",
+      "status": "Portal or referral identified; search interface not confirmed.",
+      "reviewStatus": "Destination opened; readable search form unavailable; verification pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Fort Bend": [
@@ -2398,6 +2413,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Baylor — District portal (redirect destination)",
+      "url": "https://baylorcad.southwestdatasolutions.com/",
+      "source": "https://baylorcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Baylor County",
+      "status": "Portal or referral identified; search interface not confirmed.",
+      "reviewStatus": "Destination opened; readable search form unavailable; verification pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Bee": [
@@ -8847,6 +8877,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Hamilton — Appraisal search referral (endpoint unavailable)",
+      "url": "https://esearch.hamiltoncad.org/",
+      "source": "https://www.texascad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 3,
+      "jurisdiction": "Hamilton County",
+      "status": "Portal or referral identified; search interface not confirmed.",
+      "reviewStatus": "Destination opened; readable search form unavailable; verification pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hansford": [
