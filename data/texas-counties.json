@@ -13147,6 +13147,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "McCulloch — Property search",
+      "url": "https://www.mccullochcad.org/home",
+      "source": "https://www.mccullochcad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "McCulloch County",
+      "status": "Published district service identified; individual queries not tested.",
+      "reviewStatus": "Search page identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "McLennan": [
@@ -14202,6 +14217,21 @@
       "reviewStatus": "Published source reviewed; interactive audit pending",
       "reviewedOn": "2026-11-26",
       "access": "See agency terms; use official service directly"
+    },
+    {
+      "label": "Navarro — Property search",
+      "url": "https://www.navarrocad.com/home",
+      "source": "https://www.navarrocad.com/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Navarro County",
+      "status": "Published district service identified; individual queries not tested.",
+      "reviewStatus": "Search page identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Newton": [
@@ -15623,17 +15653,17 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Reeves — Appraisal service guidance",
+      "label": "Reeves — Property search referral",
       "url": "https://reeves-cad.org/",
       "source": "https://reeves-cad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 3,
+      "destinationTier": 2,
       "jurisdiction": "Reeves County",
-      "status": "Published page located; individual searches not tested.",
-      "reviewStatus": "Page identified in web search results; interactive functionality and terms audit pending",
+      "status": "Published district service identified; individual queries not tested.",
+      "reviewStatus": "Agency advertises search; direct endpoint not confirmed",
       "access": "See agency terms",
       "reviewedOn": "2026-11-27"
     }
@@ -16579,6 +16609,21 @@
       "jurisdiction": "Shackelford County",
       "status": "Published page located; individual searches not tested.",
       "reviewStatus": "Page identified in web search results; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Shackelford — Property search",
+      "url": "https://esearch.shackelfordcad.com/",
+      "source": "https://shackelfordcad.com/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Shackelford County",
+      "status": "Published district service identified; individual queries not tested.",
+      "reviewStatus": "Search page identified in published source; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-27",
       "access": "See agency terms"
     }
