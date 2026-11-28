@@ -12522,6 +12522,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Loving — Property search",
+      "url": "https://www.lovingcad.org/Home",
+      "source": "https://www.lovingcad.org/Home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Loving County",
+      "status": "Published search interface located; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Lubbock": [
@@ -12715,6 +12730,21 @@
       "source": "https://madisoncad.org/",
       "reviewStatus": "Official source identified in web research; interactive functionality not tested",
       "reviewedOn": "2026-11-26"
+    },
+    {
+      "label": "Madison — Property search",
+      "url": "https://esearch.madisoncad.org/",
+      "source": "https://madisoncad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Madison County",
+      "status": "Published search interface located; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Marion": [
@@ -12769,18 +12799,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Marion appraisal district — agency website",
-      "url": "https://www.marioncad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "label": "Marion — Property search",
+      "url": "https://marioncad.org/",
+      "source": "https://marioncad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Marion County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory reference reviewed; destination not independently tested",
-      "access": "See agency for terms"
+      "status": "Published search interface located; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     }
   ],
   "Martin": [
