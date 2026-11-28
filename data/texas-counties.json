@@ -1713,6 +1713,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Anderson — Appraisal search portal entry",
+      "url": "https://andersoncad.net/property-search",
+      "source": "https://andersoncad.net/property-search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 2,
+      "jurisdiction": "Anderson County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Portal title confirmed; content not readable in research browser",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Andrews": [
@@ -1959,6 +1974,35 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Archer — Appraisal search",
+      "url": "https://www.archercad.org/Home/Search",
+      "source": "https://www.archercad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Archer County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Archer — Property tax search",
+      "url": "https://www.archercountytax.org/",
+      "source": "https://www.archercountytax.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Archer County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Armstrong": [
@@ -3089,6 +3133,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory reference reviewed; destination not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Briscoe — Appraisal search",
+      "url": "https://www.briscoecad.org/home",
+      "source": "https://www.briscoecad.org/home",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Briscoe County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Brooks": [
@@ -6362,6 +6421,35 @@
       "reviewStatus": "Source identified in web research; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-27",
       "access": "See agency terms"
+    },
+    {
+      "label": "Dimmit — Appraisal search",
+      "url": "https://esearch.dimmit-cad.org/",
+      "source": "https://esearch.dimmit-cad.org/",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Dimmit County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
+    },
+    {
+      "label": "Dimmit — Property tax search",
+      "url": "https://esearch.dimmitcounty.org/",
+      "source": "https://esearch.dimmitcounty.org/",
+      "recordTypes": [
+        "Property Tax Records"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Dimmit County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Donley": [
@@ -7396,18 +7484,19 @@
       "reviewedOn": "2026-11-26"
     },
     {
-      "label": "Franklin appraisal district — agency website",
-      "url": "https://www.franklin-cad.org/",
-      "source": "https://taad.org/resources/texas-cad-websites/",
+      "label": "Franklin — Appraisal search",
+      "url": "https://franklin-cad.org/",
+      "source": "https://franklin-cad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 4,
+      "destinationTier": 1,
       "jurisdiction": "Franklin County",
-      "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
-      "reviewStatus": "Association directory link identified; endpoint not independently tested",
-      "access": "See agency for terms"
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "access": "See agency terms",
+      "reviewedOn": "2026-11-27"
     },
     {
       "label": "Franklin — County clerk online records",
@@ -7967,15 +8056,15 @@
     {
       "label": "Gillespie — Appraisal search",
       "url": "https://esearch.gillespiecad.org/",
-      "source": "https://gillespiecad.org/",
+      "source": "https://esearch.gillespiecad.org/",
       "recordTypes": [
         "Property Records",
         "Property Appraisals"
       ],
-      "destinationTier": 2,
+      "destinationTier": 1,
       "jurisdiction": "Gillespie County",
-      "status": "Published service or service entry identified; individual queries and transactions not tested.",
-      "reviewStatus": "Published source or agency link identified; destination functionality and terms audit pending",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
       "reviewedOn": "2026-11-27",
       "access": "See agency terms"
     },
@@ -9128,6 +9217,21 @@
       "status": "Appraisal district website listed by Texas Association of Appraisal Districts; not a direct record search.",
       "reviewStatus": "Association directory link identified; endpoint not independently tested",
       "access": "See agency for terms"
+    },
+    {
+      "label": "Haskell — Appraisal search",
+      "url": "https://www.haskellcad.org/Home/Search",
+      "source": "https://www.haskellcad.org/Home/Search",
+      "recordTypes": [
+        "Property Records",
+        "Property Appraisals"
+      ],
+      "destinationTier": 1,
+      "jurisdiction": "Haskell County",
+      "status": "Published search or portal identified; individual queries not tested.",
+      "reviewStatus": "Search interface identified in published source; interactive functionality and terms audit pending",
+      "reviewedOn": "2026-11-27",
+      "access": "See agency terms"
     }
   ],
   "Hays": [
